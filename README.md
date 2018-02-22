@@ -11,7 +11,7 @@ If you would like, you can be a part of this project on [https://etherhive.io](h
 ---
 
 ## Resources
-
+- [Documentation](https://github.com/etherhive/docs/blob/master/README.md)
 - [API overview](https://github.com/etherhive/docs/blob/master/API/API.md)
 - [Running EtherHive](https://github.com/etherhive/docs/blob/master/Running/ProductionGuide.md)
 
