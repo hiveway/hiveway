@@ -687,12 +687,13 @@
   background: transparent;
   border: 0;
   color: lighten($ui-base-color, 8%);
-  font-weight: 500;
+  font-weight: 700;
   font-size: 11px;
   padding: 0 6px;
   text-transform: uppercase;
-  line-height: inherit;
+  line-height: 20px;
   cursor: pointer;
+  vertical-align: middle;
 }
 
 .status__prepend-icon-wrapper {
@@ -899,6 +900,11 @@
     .emojione {
       width: 24px;
       height: 24px;
+      margin: -1px 0 0;
+    }
+
+    .status__content__spoiler-link {
+      line-height: 24px;
       margin: -1px 0 0;
     }
   }
@@ -2636,12 +2642,16 @@
   background: $base-overlay-background;
   color: $ui-primary-color;
   border: 0;
+  padding: 0;
   width: 100%;
   height: 100%;
+  border-radius: 4px;
+  appearance: none;
 
   &:hover,
   &:active,
   &:focus {
+    padding: 0;
     color: lighten($ui-primary-color, 8%);
   }
 }
@@ -2654,7 +2664,7 @@
 .media-spoiler__trigger {
   display: block;
   font-size: 11px;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .spoiler-button {
@@ -4060,6 +4070,7 @@
   box-sizing: border-box;
   margin-top: 8px;
   overflow: hidden;
+  border-radius: 4px;
   position: relative;
   width: 100%;
 }
@@ -4070,6 +4081,8 @@
   display: block;
   float: left;
   position: relative;
+  border-radius: 4px;
+  overflow: hidden;
 
   &.standalone {
     .media-gallery__item-gifv-thumbnail {
@@ -4082,6 +4095,7 @@
   cursor: zoom-in;
   display: block;
   text-decoration: none;
+  color: $ui-secondary-color;
   height: 100%;
   line-height: 0;
 
