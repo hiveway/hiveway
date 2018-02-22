@@ -12,9 +12,8 @@ If you would like, you can be a part of this project on [https://etherhive.io](h
 
 ## Resources
 
-- [Frequently Asked Questions](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/FAQ.md)
-- [API overview](https://github.com/tootsuite/documentation/blob/master/Using-the-API/API.md)
-- [List of Public Nodes](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/List-of-Mastodon-instances.md)
+- [API overview](https://github.com/etherhive/docs/blob/master/API/API.md)
+- [Running EtherHive](https://github.com/etherhive/docs/blob/master/Running/ProductionGuide.md)
 
 ## Features
 
@@ -50,11 +49,11 @@ You don't need to mess with dependencies and configuration if you want to try Et
 
 ## Development
 
-Please follow the [development guide](https://github.com/tootsuite/documentation/blob/master/Running-Mastodon/Development-guide.md) from the documentation repository.
+Please follow the [development guide](https://github.com/etherhive/docs/blob/master/Running/DevelopmentGuide.md) from the documentation repository.
 
 ## Deployment
 
-There are guides in the documentation repository for [deploying on various platforms](https://github.com/tootsuite/documentation#running-mastodon).
+Please follow the [production deployment guide](https://github.com/etherhive/docs/blob/master/Running/ProductionGuide.md) from the documentation repository.
 
 ## Contributing
 
