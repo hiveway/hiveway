@@ -178,7 +178,7 @@ p {
 p {
   font-size: 15px;
   line-height: 23px;
-  color: $ui-primary-color;
+  color: $text-color;
   mso-line-height-rule: exactly;
   text-rendering: optimizelegibility;
 }
@@ -204,7 +204,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: $ui-secondary-color;
+  color: $text-color;
   margin-left: 0;
   margin-right: 0;
   margin-top: 20px;
@@ -232,7 +232,7 @@ h5 {
   font-size: 16px;
   line-height: 21px;
   font-weight: 700;
-  color: lighten($ui-base-color, 34%);
+  color: lighten($text-color, 34%);
 }
 
 .input-cell {
@@ -313,7 +313,7 @@ h5 {
 .footer {
   .column-cell,
   p {
-    color: lighten($ui-base-color, 34%);
+    color: lighten($text-color, 34%);
   }
 
   p {
@@ -326,7 +326,7 @@ h5 {
   }
 
   a {
-    color: lighten($ui-base-color, 34%);
+    color: lighten($text-color, 34%);
     text-decoration: underline;
   }
 
@@ -356,7 +356,7 @@ h5 {
 
     a,
     a span {
-      color: $primary-text-color;
+      color: $white;
       display: block !important;
       text-align: center !important;
       vertical-align: top !important;
@@ -482,12 +482,12 @@ h5 {
     margin-bottom: 20px;
 
     &.status-footer {
-      color: lighten($ui-base-color, 26%);
+      color: lighten($text-color, 26%);
       font-size: 14px;
       margin-bottom: 0;
 
       a {
-        color: lighten($ui-base-color, 26%);
+        color: lighten($text-color, 26%);
       }
     }
   }
@@ -505,10 +505,10 @@ ul {
 
   li {
     margin-bottom: 16px;
-    color: lighten($ui-base-color, 26%);
+    color: lighten($text-color, 26%);
 
     span {
-      color: $ui-primary-color;
+      color: $text-color;
     }
   }
 }

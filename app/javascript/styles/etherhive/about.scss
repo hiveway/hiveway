@@ -365,7 +365,7 @@
       font-family: 'etherhive-font-sans-serif', sans-serif;
       font-size: 16px;
       line-height: 28px;
-      color: $primary-text-color;
+      color: $text-color;
       text-align: right;
       padding: 10px 15px;
 
@@ -376,7 +376,7 @@
 
       span {
         &:last-child {
-          color: $ui-secondary-color;
+          color: $text-color;
         }
       }
 
@@ -403,7 +403,7 @@
         font-size: 14px;
         line-height: 24px;
         font-weight: 500;
-        color: $ui-primary-color;
+        color: $text-color;
         padding-bottom: 5px;
         margin-bottom: 15px;
         border-bottom: 1px solid lighten($ui-base-color, 4%);
@@ -414,7 +414,7 @@
         a,
         span {
           font-weight: 400;
-          color: darken($ui-primary-color, 10%);
+          color: darken($text-color, 10%);
         }
 
         a {
@@ -445,7 +445,7 @@
 
         a {
           display: block;
-          color: $primary-text-color;
+          color: $text-color;
           text-decoration: none;
 
           &:hover {
@@ -457,7 +457,7 @@
 
         .username {
           display: block;
-          color: $ui-primary-color;
+          color: $text-color;
         }
       }
     }

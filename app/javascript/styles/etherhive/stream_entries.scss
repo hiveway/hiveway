@@ -83,7 +83,7 @@
         font-size: 14px;
 
         .status__relative-time {
-          color: $ui-primary-color;
+          color: $text-color;
         }
       }
     }
@@ -92,7 +92,7 @@
       display: block;
       max-width: 100%;
       padding-right: 25px;
-      color: $ui-base-color;
+      color: $text-color;
     }
 
     .status__avatar {
@@ -122,7 +122,7 @@
 
       strong {
         font-weight: 500;
-        color: $ui-base-color;
+        color: $text-color;
 
         @each $lang in $cjk-langs {
           &:lang(#{$lang}) {
@@ -133,19 +133,19 @@
 
       span {
         font-size: 14px;
-        color: $ui-primary-color;
+        color: $text-color;
       }
     }
 
     .status__content {
-      color: $ui-base-color;
+      color: $text-color;
 
       a {
         color: $ui-highlight-color;
       }
 
       a.status__content__spoiler-link {
-        color: $primary-text-color;
+        color: $text-color;
         background: $ui-base-color;
 
         &:hover {
@@ -179,7 +179,7 @@
 
         strong {
           font-weight: 500;
-          color: $ui-base-color;
+          color: $text-color;
 
           @each $lang in $cjk-langs {
             &:lang(#{$lang}) {
@@ -190,7 +190,7 @@
 
         span {
           font-size: 14px;
-          color: $ui-primary-color;
+          color: $text-color;
         }
       }
     }
@@ -206,14 +206,14 @@
     }
 
     .status__content {
-      color: $ui-base-color;
+      color: $text-color;
 
       a {
         color: $ui-highlight-color;
       }
 
       a.status__content__spoiler-link {
-        color: $primary-text-color;
+        color: $text-color;
         background: $ui-base-color;
 
         &:hover {
@@ -224,7 +224,7 @@
 
     .detailed-status__meta {
       margin-top: 15px;
-      color: $ui-primary-color;
+      color: $text-color;
       font-size: 14px;
       line-height: 18px;
 
@@ -251,7 +251,7 @@
 
     .status-card__title,
     .status-card__description {
-      color: $ui-base-color;
+      color: $text-color;
     }
 
     .status-card__image {
@@ -261,7 +261,7 @@
 
   .media-spoiler {
     background: $ui-base-color;
-    color: $ui-primary-color;
+    color: $text-color;
   }
 
   .pre-header {
@@ -269,7 +269,7 @@
     padding-left: (48px + 14px * 2);
     padding-bottom: 0;
     margin-bottom: -4px;
-    color: $ui-primary-color;
+    color: $text-color;
     font-size: 14px;
     position: relative;
 
@@ -279,7 +279,7 @@
     }
 
     .status__display-name.muted strong {
-      color: $ui-primary-color;
+      color: $text-color;
     }
   }
 

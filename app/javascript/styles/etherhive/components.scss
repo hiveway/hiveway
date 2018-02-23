@@ -805,7 +805,7 @@
 }
 
 .status__relative-time {
-  color: $black;
+  color: $text-color;
   float: right;
   font-size: 14px;
 }
@@ -1228,7 +1228,7 @@
 .status__display-name,
 .account__display-name {
   strong {
-    color: $black;
+    color: $text-color;
   }
 }
 
@@ -1259,7 +1259,7 @@
 }
 
 .detailed-status__display-name {
-  color: $ui-secondary-color;
+  color: $text-color;
   display: block;
   line-height: 24px;
   margin-bottom: 15px;
@@ -1274,7 +1274,7 @@
 
   strong {
     font-size: 16px;
-    color: $primary-text-color;
+    color: $text-color;
   }
 }
 
@@ -4101,8 +4101,8 @@
 
   &,
   img {
-    width: 100%;
-    height: 100%;
+    //width: 100%;
+    //height: 100%;
     object-fit: cover;
   }
 }

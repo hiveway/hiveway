@@ -1,7 +1,8 @@
 .card {
-  background-color: lighten($ui-base-color, 4%);
-  background-size: cover;
+  background-color: $white;
+  background-size: contain;
   background-position: center;
+  background-repeat: no-repeat;
   border-radius: 4px 4px 0 0;
   box-shadow: 0 0 15px rgba($base-shadow-color, 0.2);
   overflow: hidden;
@@ -9,7 +10,7 @@
   display: flex;
 
   &::after {
-    background: rgba(darken($ui-base-color, 8%), 0.5);
+    background: rgba(darken($ui-base-color, 8%), 0.25);
     display: block;
     content: "";
     position: absolute;
@@ -40,7 +41,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    background: rgba(darken($ui-base-color, 8%), 0.8);
+    background: rgba($white, 0.8);
     position: relative;
     z-index: 2;
   }
@@ -62,7 +63,7 @@
     display: block;
     font-size: 20px;
     line-height: 18px * 1.5;
-    color: $primary-text-color;
+    color: $text-color;
     padding: 10px 15px;
     padding-bottom: 0;
     font-weight: 500;
@@ -75,7 +76,7 @@
     small {
       display: block;
       font-size: 14px;
-      color: $ui-highlight-color;
+      color: $text-color;
       font-weight: 400;
       overflow: hidden;
       text-overflow: ellipsis;
@@ -139,7 +140,7 @@
     width: 33.3%;
     box-sizing: border-box;
     flex: 0 0 auto;
-    color: $ui-primary-color;
+    color: $text-color;
     padding: 5px 10px 0;
     margin-bottom: 10px;
     border-right: 1px solid lighten($ui-base-color, 4%);
@@ -304,7 +305,7 @@
 
 .accounts-grid {
   box-shadow: 0 0 15px rgba($base-shadow-color, 0.2);
-  background: darken($simple-background-color, 8%);
+  background: $white;
   border-radius: 0 0 4px 4px;
   padding: 20px 5px;
   padding-bottom: 10px;
@@ -322,11 +323,12 @@
   .account-grid-card {
     box-sizing: border-box;
     width: 335px;
-    background: $simple-background-color;
+    background: $white;
     border-radius: 4px;
-    color: $ui-base-color;
+    color: $text-color;
     margin: 0 5px 10px;
     position: relative;
+    border: 1px solid #e5e5e5;
 
     @media screen and (max-width: 740px) {
       width: calc(100% - 10px);
@@ -384,7 +386,7 @@
 
       a {
         display: block;
-        color: $ui-base-color;
+        color: $text-color;
         text-decoration: none;
         text-overflow: ellipsis;
         overflow: hidden;
@@ -425,7 +427,7 @@
 .nothing-here {
   width: 100%;
   display: block;
-  color: $ui-primary-color;
+  color: $text-color;
   font-size: 14px;
   font-weight: 500;
   text-align: center;
@@ -472,7 +474,7 @@
 
       strong {
         font-weight: 500;
-        color: $ui-base-color;
+        color: $text-color;
 
         @each $lang in $cjk-langs {
           &:lang(#{$lang}) {
@@ -512,18 +514,18 @@
     display: inline-block;
     padding: 15px;
     text-decoration: none;
-    color: $ui-highlight-color;
+    color: $text-color;
     text-transform: uppercase;
     font-weight: 500;
 
     &:hover,
     &:active,
     &:focus {
-      color: lighten($ui-highlight-color, 8%);
+      color: lighten($text-color, 50%);
     }
 
     &.active {
-      color: $ui-base-color;
+      color: #fb5100;
       cursor: default;
     }
   }

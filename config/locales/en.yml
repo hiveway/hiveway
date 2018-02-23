@@ -12,8 +12,8 @@ en:
     domain_count_after: other instances
     domain_count_before: Connected to
     extended_description_html: |
-      <h3>A good place for rules</h3>
-      <p>The extended description has not been set up yet.</p>
+      <h3>Platform Rules</h3>
+      <p>Please do not post offensive or inapropriate content. Your account will be suspended. </p>
     features:
       humane_approach_body: Learning from failures of other networks, EtherHive aims to make ethical design choices to combat the misuse of social media.
       humane_approach_title: A more humane approach
