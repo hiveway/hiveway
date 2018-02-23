@@ -3240,9 +3240,13 @@
   }
 }
 
+.search-results {
+  background: $white;
+}
+
 .search-results__header {
-  color: $ui-base-lighter-color;
-  background: lighten($ui-base-color, 2%);
+  color: $text-color;
+  background: #ffca5e;
   border-bottom: 1px solid darken($ui-base-color, 4%);
   padding: 15px 10px;
   font-size: 14px;
@@ -3264,12 +3268,12 @@
       top: 50%;
       width: 100%;
       height: 0;
-      border-top: 1px solid lighten($ui-base-color, 8%);
+      border-top: 1px solid #ffca5e;
     }
 
     span {
       display: inline-block;
-      background: $ui-base-color;
+      background: $white;
       color: $text-color;
       font-size: 14px;
       font-weight: 500;
