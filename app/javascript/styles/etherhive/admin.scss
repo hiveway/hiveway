@@ -6,7 +6,7 @@
   .sidebar-wrapper {
     flex: 1;
     height: 100%;
-    background: $ui-base-color;
+    background: $white;
     display: flex;
     justify-content: flex-end;
   }
@@ -55,7 +55,7 @@
       }
 
       ul {
-        background: darken($ui-base-color, 4%);
+        background: $white;
         border-radius: 0 0 0 4px;
         margin: 0;
 
@@ -64,13 +64,13 @@
           padding: 15px 35px;
 
           &.selected {
-            color: $primary-text-color;
-            background-color: $ui-highlight-color;
+            color: $black;
+            background-color: #f98411;
             border-bottom: 0;
             border-radius: 0;
 
             &:hover {
-              background-color: lighten($ui-highlight-color, 5%);
+              background-color: lighten(#f98411, 15%);
             }
           }
         }

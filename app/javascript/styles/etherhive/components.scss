@@ -716,7 +716,7 @@
 
     .detailed-status,
     .detailed-status__action-bar {
-      background: lighten($ui-base-color, 8%);
+      background: $white;
     }
   }
 }
@@ -890,7 +890,7 @@
 }
 
 .detailed-status {
-  background: lighten($ui-base-color, 4%);
+  background: $white;
   padding: 14px 10px;
 
   .status__content {
@@ -922,7 +922,7 @@
 }
 
 .detailed-status__action-bar {
-  background: lighten($ui-base-color, 4%);
+  background: $white;
   border-top: 1px solid lighten($ui-base-color, 8%);
   border-bottom: 1px solid lighten($ui-base-color, 8%);
   display: flex;
@@ -1915,7 +1915,7 @@
 
 .column-back-button {
   background: #192033;
-  color: $ui-highlight-color;
+  color: $white;
   cursor: pointer;
   flex: 0 0 auto;
   font-size: 16px;
@@ -2479,7 +2479,7 @@
 
   &.active {
     color: $primary-text-color;
-    background: #eaeaea;
+    background: $white;
 
     &:hover {
       color: $primary-text-color;
@@ -2515,7 +2515,7 @@
 }
 
 .column-header__collapsible-inner {
-  background: #eaeaea;
+  background: $white;
   padding: 15px;
 }
 
@@ -2785,7 +2785,7 @@
 .empty-column-indicator,
 .error-column {
   color: lighten($primary-text-color, 20%);
-  background: $ui-base-color;
+  background: $white;
   text-align: center;
   padding: 20px;
   font-size: 15px;
@@ -3775,8 +3775,8 @@
 .report-modal,
 .actions-modal,
 .mute-modal {
-  background: lighten($ui-secondary-color, 8%);
-  color: $ui-base-color;
+  background: $white;
+  color: $text-color;
   border-radius: 8px;
   overflow: hidden;
   max-width: 90vw;
@@ -3828,14 +3828,14 @@
 .report-modal__action-bar {
   display: flex;
   justify-content: space-between;
-  background: $ui-secondary-color;
+  background: #eaeaea;
   padding: 10px;
   line-height: 36px;
 
   & > div {
     flex: 1 1 auto;
     text-align: right;
-    color: lighten($ui-base-color, 33%);
+    color: lighten($text-color, 33%);
     padding-right: 10px;
   }
 
@@ -3946,14 +3946,14 @@
   .confirmation-modal__cancel-button,
   .mute-modal__cancel-button {
     background-color: transparent;
-    color: darken($ui-secondary-color, 34%);
+    color: $text-color;
     font-size: 14px;
     font-weight: 500;
 
     &:hover,
     &:focus,
     &:active {
-      color: darken($ui-secondary-color, 38%);
+      color: darken($text-color, 38%);
     }
   }
 }
@@ -4502,12 +4502,12 @@
   padding: 10px 14px;
   padding-bottom: 14px;
   margin-top: 10px;
-  color: $ui-primary-color;
+  color: $text-color;
   box-shadow: 2px 4px 15px rgba($base-shadow-color, 0.4);
 
   h4 {
     text-transform: uppercase;
-    color: $ui-primary-color;
+    color: $text-color;
     font-size: 13px;
     font-weight: 500;
     margin-bottom: 10px;
@@ -4523,7 +4523,7 @@
 
   em {
     font-weight: 500;
-    color: $ui-base-color;
+    color: #e85711;
   }
 }
 
