@@ -47,6 +47,7 @@ defaults: &defaults
   bootstrap_timeline_accounts: ''
   activity_api_enabled: true
   peers_api_enabled: true
+  eth_rpc_node: 'http://172.17.172.114:8545'
 development:
   <<: *defaults
 
