@@ -2343,8 +2343,8 @@
   text-align: center;
   font-size: 16px;
   font-weight: 500;
-  color: lighten($ui-base-color, 16%);
-  background: $ui-base-color;
+  color: $text-color;
+  background: $white;
   cursor: default;
   display: flex;
   flex: 1 1 auto;
@@ -2383,7 +2383,6 @@
     strong {
       display: block;
       margin-bottom: 10px;
-      color: $text-color;
     }
 
     span {
