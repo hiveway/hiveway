@@ -19,7 +19,7 @@ If you would like, you can be a part of this project on [https://etherhive.io](h
 
 **No vendor lock-in: Fully interoperable with any conforming platform**
 
-It doesn't have to be Mastodon, whatever implements ActivityPub or OStatus is part of the social network!
+It doesn't have to be EtherHive, whatever implements ActivityPub or OStatus is part of the social network!
 
 **Real-time timeline updates**
 

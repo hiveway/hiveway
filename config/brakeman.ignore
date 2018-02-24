@@ -165,7 +165,7 @@
       "render_path": null,
       "location": {
         "type": "method",
-        "class": "Mastodon::Snowflake",
+        "class": "EtherHive::Snowflake",
         "method": "define_timestamp_id"
       },
       "user_input": "SecureRandom.hex(16)",
