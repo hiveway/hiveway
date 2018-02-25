@@ -139,7 +139,7 @@ export default class Card extends React.PureComponent {
     }
 
     const provider    = card.get('provider_name').length === 0 ? decodeIDNA(getHostname(card.get('url'))) : card.get('provider_name');
-    const horizontal  = card.get('width') > card.get('height') && (card.get('width') + 100 >= width) || card.get('type') !== 'link';
+    const horizontal  = true;
     const className   = classnames('status-card', { horizontal });
     const interactive = card.get('type') !== 'link';
     const title       = interactive ? <a className='status-card__title' href={card.get('url')} title={card.get('title')} rel='noopener' target='_blank'><strong>{card.get('title')}</strong></a> : <strong className='status-card__title' title={card.get('title')}>{card.get('title')}</strong>;
@@ -155,7 +155,7 @@ export default class Card extends React.PureComponent {
     );
 
     let embed     = '';
-    let thumbnail = <div style={{ backgroundImage: `url(${card.get('image')})`, width: horizontal ? width : null, height: horizontal ? height : null }} className='status-card__image-image' />;
+    let thumbnail = <div style={{ backgroundImage: `url(${card.get('image')})`, width: width, height: height }} className='status-card__image-image' />;
 
     if (interactive) {
       if (embedded) {
