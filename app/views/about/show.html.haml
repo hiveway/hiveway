@@ -31,9 +31,6 @@
         .heading
           = image_tag asset_pack_path('logo_full.svg'), alt: '', role: 'presentation', class: 'mascot'
 
-          .heading-desc
-            %small= t 'about.hosted_on', domain: site_hostname
-
         - if @instance_presenter.open_registrations
           = render 'registration'
         - else

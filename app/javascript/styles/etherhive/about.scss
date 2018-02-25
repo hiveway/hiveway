@@ -636,12 +636,6 @@
     }
   }
 
-  @media screen and (max-width: 689px) {
-    .header-wrapper .mascot {
-      display: none;
-    }
-  }
-
   @media screen and (max-width: 675px) {
     .header-wrapper {
       padding-top: 0;
@@ -697,7 +691,7 @@
 
         .simple_form,
         .closed-registrations-message {
-          background: darken($ui-base-color, 8%);
+          background: #fffdd8;
           width: 100%;
           border-radius: 0;
           box-sizing: border-box;
