@@ -14,6 +14,8 @@ Paperclip::Attachment.default_options.merge!(
 )
 
 if ENV['S3_ENABLED'] == 'true'
+  print 'Paperclip: S3 is enabled'
+
   require 'aws-sdk'
   Aws.eager_autoload!(services: %w(S3))
 
