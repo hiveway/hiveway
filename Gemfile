@@ -18,7 +18,7 @@ gem 'aws-sdk', '~> 2.10', require: false
 gem 'fog-core', '~> 1.45'
 gem 'fog-local', '~> 0.4', require: false
 gem 'fog-openstack', '~> 0.1', require: false
-gem 'paperclip', '~> 5.1'
+gem 'paperclip', '~> 5.2.1'
 gem 'paperclip-av-transcoder', '~> 0.6'
 gem 'streamio-ffmpeg', '~> 3.0'
 
@@ -72,6 +72,8 @@ gem 'simple-navigation', '~> 4.0'
 gem 'simple_form', '~> 3.4'
 gem 'sprockets-rails', '~> 3.2', require: 'sprockets/railtie'
 gem 'strong_migrations'
+gem 'tty-command'
+gem 'tty-prompt'
 gem 'twitter-text', '~> 1.14'
 gem 'tzinfo-data', '~> 1.2017'
 gem 'webpacker', '~> 3.0'
