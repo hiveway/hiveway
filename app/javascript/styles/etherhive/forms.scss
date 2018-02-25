@@ -430,7 +430,7 @@ code {
 .follow-prompt {
   margin-bottom: 30px;
   text-align: center;
-  color: $ui-primary-color;
+  color: $text-color;
 
   h2 {
     font-size: 16px;
@@ -438,7 +438,7 @@ code {
   }
 
   strong {
-    color: $ui-secondary-color;
+    color: $text-color;
     font-weight: 500;
 
     @each $lang in $cjk-langs {
