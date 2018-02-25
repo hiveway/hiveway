@@ -17,6 +17,7 @@ class ActivityPub::Adapter < ActiveModelSerializers::Adapter::Base
         'conversation'              => 'ostatus:conversation',
         'post'                      => 'http://etherhive.io/ns#',
         'Emoji'                     => 'post:Emoji',
+        'focalPoint'                => { '@container' => '@list', '@id' => 'toot:focalPoint' },
       },
     ],
   }.freeze
