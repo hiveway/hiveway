@@ -3561,7 +3561,7 @@ a.status-card {
 .onboarding-modal__paginator,
 .error-modal__footer {
   flex: 0 0 auto;
-  background: darken($ui-secondary-color, 8%);
+  background: #eaeaea;
   display: flex;
   padding: 25px;
 
@@ -3591,12 +3591,12 @@ a.status-card {
 
     &.onboarding-modal__done,
     &.onboarding-modal__next {
-      color: $ui-base-color;
+      color: $text-color;
 
       &:hover,
       &:focus,
       &:active {
-        color: darken($ui-base-color, 4%);
+        color: darken($text-color, 20%);
       }
     }
   }
@@ -3653,12 +3653,12 @@ a.status-card {
   }
 
   a {
-    color: $ui-highlight-color;
+    color: $text-color;
 
     &:hover,
     &:focus,
     &:active {
-      color: lighten($ui-highlight-color, 4%);
+      color: lighten($text-color, 15%);
     }
   }
 
@@ -3694,7 +3694,6 @@ a.status-card {
 }
 
 .onboarding-modal__page__wrapper-0 {
-  background: url('../images/elephant_ui_greeting.svg') no-repeat left bottom / auto 250px;
   height: 100%;
   padding: 0;
 }
@@ -3719,7 +3718,8 @@ a.status-card {
 
   &__extra {
     padding-right: 65px;
-    padding-left: 185px;
+    padding-left: 65px;
+    padding-top: 55px;
     text-align: center;
   }
 }
@@ -3739,7 +3739,7 @@ a.status-card {
 
   &__case {
     background: $ui-base-color;
-    color: $ui-secondary-color;
+    color: $text-color;
     font-weight: 500;
     padding: 10px;
     border-radius: 4px;
@@ -3804,7 +3804,7 @@ a.status-card {
   }
 
   .column-header {
-    color: $primary-text-color;
+    color: $white;
   }
 }
 
