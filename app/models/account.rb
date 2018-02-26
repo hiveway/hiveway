@@ -43,7 +43,8 @@
 #  protocol                :integer          default("ostatus"), not null
 #  memorial                :boolean          default(FALSE), not null
 #  moved_to_account_id     :integer
-#
+#  eth_wallet              :string
+#  eth_key                 :string
 
 class Account < ApplicationRecord
   MENTION_RE = /(?<=^|[^\/[:word:]])@(([a-z0-9_]+)(?:@[a-z0-9\.\-]+[a-z0-9]+)?)/i

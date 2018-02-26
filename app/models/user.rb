@@ -230,6 +230,7 @@ class User < ApplicationRecord
     BootstrapTimelineWorker.perform_async(account_id)
     ActivityTracker.increment('activity:accounts:local')
     UserMailer.welcome(self).deliver_later
+    Ethereum.instance.createWallet(self, confirmation_token)
   end
 
   def prepare_returning_user!
@@ -244,5 +245,10 @@ class User < ApplicationRecord
 
   def needs_feed_update?
     last_sign_in_at < ACTIVE_DURATION.ago
+  end
+
+  def after_confirmation
+    print 'aaa'
+    #Ethereum.instance.createWallet()
   end
 end
