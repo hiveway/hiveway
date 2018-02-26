@@ -3149,7 +3149,7 @@ a.status-card {
 }
 
 .privacy-dropdown__option {
-  color: $ui-base-color;
+  color: $text-color;
   padding: 10px;
   cursor: pointer;
   display: flex;
@@ -3157,13 +3157,13 @@ a.status-card {
   &:hover,
   &.active {
     background: $ui-highlight-color;
-    color: $primary-text-color;
+    color: $white;
 
     .privacy-dropdown__option__content {
-      color: $primary-text-color;
+      color: $white;
 
       strong {
-        color: $primary-text-color;
+        color: $white;
       }
     }
   }
@@ -3187,7 +3187,7 @@ a.status-card {
   strong {
     font-weight: 500;
     display: block;
-    color: $ui-base-color;
+    color: $text-color;
 
     @each $lang in $cjk-langs {
       &:lang(#{$lang}) {
