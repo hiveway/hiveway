@@ -126,10 +126,6 @@ const PageFour = ({ domain, intl }) => (
         <div>
           <div className='figure non-interactive' style={{ marginBottom: 0 }}><ColumnHeader icon='users' type={intl.formatMessage(messages.local_title)} /></div>
         </div>
-
-        <div>
-          <div className='figure non-interactive' style={{ marginBottom: 0 }}><ColumnHeader icon='globe' type={intl.formatMessage(messages.federated_title)} /></div>
-        </div>
       </div>
 
       <p><FormattedMessage id='onboarding.page_five.public_timelines' defaultMessage='The local timeline shows public posts from everyone on {domain}. The federated timeline shows public posts from everyone who people on {domain} follow. These are the Public Timelines, a great way to discover new people.' values={{ domain }} /></p>
