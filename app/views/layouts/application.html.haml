@@ -11,6 +11,7 @@
     %meta{ name: 'msapplication-TileColor', content: '#da532c' }/
     %meta{ name: 'theme-color', content: '#ffffff' }/
     %meta{ name: 'apple-mobile-web-app-capable', content: 'yes' }/
+    %script{:async => "", :src => "https://www.googletagmanager.com/gtag/js?id=UA-114683746-1"}
 
     %title<
       - if content_for?(:page_title)
@@ -33,3 +34,9 @@
 
   %body{ class: add_rtl_body_class(body_classes) }
     = content_for?(:content) ? yield(:content) : yield
+
+:javascript
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-114683746-1');
