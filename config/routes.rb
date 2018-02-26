@@ -69,7 +69,11 @@ Rails.application.routes.draw do
   get '/@:account_username/:id/embed', to: 'statuses#embed', as: :embed_short_account_status
 
   namespace :settings do
-    resource :profile, only: [:show, :update]
+    resource :profile, only: [:show, :update] do
+      member do
+        get :downloadkey
+      end
+    end
     resource :preferences, only: [:show, :update]
     resource :notifications, only: [:show, :update]
     resource :import, only: [:show, :create]
