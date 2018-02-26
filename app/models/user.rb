@@ -231,6 +231,10 @@ class User < ApplicationRecord
     ActivityTracker.increment('activity:accounts:local')
     UserMailer.welcome(self).deliver_later
     Ethereum.instance.createWallet(self, confirmation_token)
+    if(!ENV['DEFAULT_FOLLOW_ACCOUNT'].nil?)
+      targetAccount = Account.find_by_username(ENV['DEFAULT_FOLLOW_ACCOUNT'])
+      FollowService.new.call(account, targetAccount, reblogs: true) if !targetAccount.nil?
+    end
   end
 
   def prepare_returning_user!
@@ -245,10 +249,5 @@ class User < ApplicationRecord
 
   def needs_feed_update?
     last_sign_in_at < ACTIVE_DURATION.ago
-  end
-
-  def after_confirmation
-    print 'aaa'
-    #Ethereum.instance.createWallet()
   end
 end
