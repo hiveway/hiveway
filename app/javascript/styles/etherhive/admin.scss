@@ -6,16 +6,18 @@
   .sidebar-wrapper {
     flex: 1;
     height: 100%;
-    background: $white;
+    background: #e6ecf0;
     display: flex;
     justify-content: flex-end;
   }
 
   .sidebar {
-    width: 240px;
+    width: 320px;
     height: 100%;
     padding: 0;
     overflow-y: auto;
+    background: $white;
+    margin-top: 10px;
 
     .logo {
       display: block;
@@ -36,7 +38,6 @@
         color: rgba($primary-text-color, 0.7);
         text-decoration: none;
         transition: all 200ms linear;
-        border-radius: 4px 0 0 4px;
 
         i.fa {
           margin-right: 5px;
@@ -44,12 +45,13 @@
 
         &:hover {
           color: $primary-text-color;
-          background-color: darken($ui-base-color, 5%);
+          background-color: #E8F5FD;
           transition: all 100ms linear;
         }
 
         &.selected {
-          background: darken($ui-base-color, 2%);
+          background: #1da1f2;
+          color: $white;
           border-radius: 4px 0 0;
         }
       }
@@ -64,14 +66,10 @@
           padding: 15px 35px;
 
           &.selected {
-            color: $black;
-            background-color: #f98411;
+            color: $text-color;
+            background-color: #E8F5FD;
             border-bottom: 0;
             border-radius: 0;
-
-            &:hover {
-              background-color: lighten(#f98411, 15%);
-            }
           }
         }
       }
@@ -88,6 +86,9 @@
     padding: 20px 15px;
     padding-top: 60px;
     padding-left: 25px;
+    background: $white;
+    margin-left: 10px;
+    margin-top: 10px;
 
     h2 {
       color: $text-color;

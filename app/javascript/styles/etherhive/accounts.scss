@@ -10,7 +10,7 @@
   display: flex;
 
   &::after {
-    background: rgba(darken($ui-base-color, 8%), 0.25);
+    border-bottom: 1px solid #e6ecf0;
     display: block;
     content: "";
     position: absolute;
@@ -33,6 +33,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    border-right: 1px solid #e6ecf0;
   }
 
   .card__bio {
@@ -514,7 +515,7 @@
     display: inline-block;
     padding: 15px;
     text-decoration: none;
-    color: $text-color;
+    color: #1da1f2;
     text-transform: uppercase;
     font-weight: 500;
 
@@ -525,7 +526,7 @@
     }
 
     &.active {
-      color: #fb5100;
+      color: $text-color;
       cursor: default;
     }
   }

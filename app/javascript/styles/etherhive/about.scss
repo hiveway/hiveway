@@ -134,7 +134,6 @@
     position: relative;
 
     &.compact {
-      background: $ui-base-color;
       padding-bottom: 15px;
 
       .hero .heading {
@@ -301,7 +300,7 @@
 
       .simple_form,
       .closed-registrations-message {
-        background: #fffcc2;
+        background: $white;
         width: 280px;
         padding: 15px 20px;
         border-radius: 4px 4px 0 0;
@@ -330,7 +329,7 @@
   }
 
   .about-short {
-    background: darken($ui-base-color, 4%);
+    background: #eff1f3;
     padding: 50px 0 30px;
     font-family: 'etherhive-font-sans-serif', sans-serif;
     font-size: 16px;
@@ -346,7 +345,7 @@
   }
 
   .information-board {
-    background: darken($ui-base-color, 4%);
+    background: #eff1f3;
     padding: 20px 0;
 
     .container {
@@ -391,7 +390,7 @@
       position: absolute;
       width: 280px;
       box-sizing: border-box;
-      background: darken($ui-base-color, 8%);
+      background: $white;
       padding: 20px;
       padding-top: 10px;
       border-radius: 4px 4px 0 0;
