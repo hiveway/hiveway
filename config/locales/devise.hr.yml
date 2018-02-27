@@ -16,13 +16,13 @@ hr:
       unconfirmed: Moraš potvrditi svoju email adresu prije no što nastaviš.
     mailer:
       confirmation_instructions:
-        subject: 'EtherHive: Upute za potvrđivanje'
+        subject: 'Hiveway: Upute za potvrđivanje'
       password_change:
-        subject: 'EtherHive: Lozinka je promijenjena'
+        subject: 'Hiveway: Lozinka je promijenjena'
       reset_password_instructions:
-        subject: 'EtherHive: Upute za resetiranje lozinke'
+        subject: 'Hiveway: Upute za resetiranje lozinke'
       unlock_instructions:
-        subject: 'EtherHive: Upute za otključavanje'
+        subject: 'Hiveway: Upute za otključavanje'
     omniauth_callbacks:
       failure: Ne možemo te autentificirati sa %{kind} zbog "%{reason}".
       success: Uspješno autentificiran sa %{kind} računa.

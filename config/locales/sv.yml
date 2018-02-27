@@ -2,7 +2,7 @@
 sv:
   about:
     about_hashtag_html: Dessa är offentliga posts märkta med <strong>#%{hashtag}</strong>. Du kan interagera med dem om du har ett konto någonstans i federationen.
-    about_etherhive_html: EtherHive är ett socialt nätverk baserat på öppna webbprotokoll och gratis, öppen källkodsprogramvara. Det är decentraliserat som e-post.
+    about_etherhive_html: Hiveway är ett socialt nätverk baserat på öppna webbprotokoll och gratis, öppen källkodsprogramvara. Det är decentraliserat som e-post.
     about_this: Om
     closed_registrations: Registreringar är för närvarande stängda i denna instans. Dock så kan du hitta en annan instans för att skapa ett konto och få tillgång till samma nätverk från det.
     contact: Kontakt
@@ -15,9 +15,9 @@ sv:
       <h3>En bra plats för regler</h3>
       <p>Den utökade beskrivningen har inte konfigurerats ännu.</p>
     features:
-      humane_approach_body: EtherHive, har lärt sig från tidigare misslyckanden i andra nätverk och syftar till att göra etiska designval i EtherHive för att bekämpa missbruk av sociala medier.
+      humane_approach_body: Hiveway, har lärt sig från tidigare misslyckanden i andra nätverk och syftar till att göra etiska designval i Hiveway för att bekämpa missbruk av sociala medier.
       humane_approach_title: En mer human inställning
-      not_a_product_body: EtherHive är inte ett kommersiellt nätverk. Ingen reklam, ingen datautvinning, inga muromgärdade trädgårdar. Det finns ingen central myndighet.
+      not_a_product_body: Hiveway är inte ett kommersiellt nätverk. Ingen reklam, ingen datautvinning, inga muromgärdade trädgårdar. Det finns ingen central myndighet.
       not_a_product_title: Du är en person, inte en produkt
       real_conversation_body: Med 500 tecken till ditt förfogande och stöd för granulärt innehåll och mediavarningar så kan du uttrycka dig själv, som du vill.
       real_conversation_title: Byggd för riktiga konversationer
@@ -25,7 +25,7 @@ sv:
       within_reach_title: Alltid inom räckhåll
     find_another_instance: Hitta en annan instans
     generic_description: "%{domain} är en server i nätverket"
-    hosted_on: EtherHive värd på %{domain}
+    hosted_on: Hiveway värd på %{domain}
     learn_more: Lär dig mer
     other_instances: Instanslista
     source_code: Källkod
@@ -33,7 +33,7 @@ sv:
     status_count_before: Vem författade
     user_count_after: användare
     user_count_before: Hem till
-    what_is_etherhive: Vad är EtherHive?
+    what_is_etherhive: Vad är Hiveway?
   accounts:
     follow: Följa
     followers: Följare
@@ -411,7 +411,7 @@ sv:
     '500':
       content: Vi är ledsna, men något gick fel från vårat håll.
       title: Den här sidan är inte korrekt
-    noscript_html: För att använda EtherHive webbapplikationen, vänligen aktivera JavaScript.
+    noscript_html: För att använda Hiveway webbapplikationen, vänligen aktivera JavaScript.
   exports:
     blocks: Du blockerar
     csv: CSV
@@ -578,7 +578,7 @@ sv:
       weibo: Weibo
     current_session: Nuvarande session
     description: "%{browser} på %{platform}"
-    explanation: Detta är inloggade webbläsare på EtherHive just nu.
+    explanation: Detta är inloggade webbläsare på Hiveway just nu.
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -598,7 +598,7 @@ sv:
     title: Sessioner
   settings:
     authorized_apps: Godkända appar
-    back: Tillbaka till EtherHive
+    back: Tillbaka till Hiveway
     delete: Konto radering
     development: Utveckling
     edit_profile: Redigera profil
@@ -704,7 +704,7 @@ sv:
       <p>Ursprungligen anpassad från <a href="https://github.com/discourse/discourse">Discourse integritetspolicy</a>.</p>
     title: "%{instance} Användarvillkor och Sekretesspolicy"
   themes:
-    default: EtherHive
+    default: Hiveway
   time:
     formats:
       default: "%b %d, %Y, %H:%M"
@@ -731,16 +731,16 @@ sv:
       explanation: Här är några tips för att komma igång
       final_action: Börja posta
       final_step: 'Börja posta! Även utan anhängare kan dina offentliga meddelanden ses av andra, till exempel på den lokala tidslinjen och i hashtags. Du får gärna presentera dig via hashtaggen #introductions.'
-      full_handle: Ditt fullständiga användarnamn/EtherHiveadress
+      full_handle: Ditt fullständiga användarnamn/Hivewayadress
       full_handle_hint: Det här är vad du skulle berätta för dina vänner så att de kan meddela eller följa dig från en annan instans.
       review_preferences_action: Ändra inställningar
       review_preferences_step: Se till att du ställer in dina inställningar, t.ex. vilka e-postmeddelanden du vill ta emot eller vilken integritetsnivå du vill att dina inlägg ska vara. Om du inte har åksjuka, kan du välja att aktivera automatisk uppspelning av GIF-bilder.
-      subject: Välkommen till EtherHive
-      tip_bridge_html: Om du kommer från Twitter kan du hitta dina vänner på EtherHive genom att använda <a href="%{bridge_url}">bridge-appen</a>. Det fungerar dock bara om de också har använt bridge-appen!
-      tip_federated_timeline: Den förenade tidslinjen är en störtflodsvy av EtherHive-nätverket. Men det inkluderar bara människor som dina grannar följer, så det är inte komplett.
+      subject: Välkommen till Hiveway
+      tip_bridge_html: Om du kommer från Twitter kan du hitta dina vänner på Hiveway genom att använda <a href="%{bridge_url}">bridge-appen</a>. Det fungerar dock bara om de också har använt bridge-appen!
+      tip_federated_timeline: Den förenade tidslinjen är en störtflodsvy av Hiveway-nätverket. Men det inkluderar bara människor som dina grannar följer, så det är inte komplett.
       tip_following: Du följer din servers administratör(er) som standard. För att hitta fler intressanta personer, kolla de lokala och förenade tidslinjerna.
       tip_local_timeline: Den lokala tidslinjen är en störtflodsvy av personer på% {instance}. Det här är dina närmaste grannar!
-      tip_mobile_webapp: Om din mobila webbläsare erbjuder dig att lägga till EtherHive till ditt hemskärm kan du få push-meddelanden. Det fungerar som en inbyggd app på många sätt!
+      tip_mobile_webapp: Om din mobila webbläsare erbjuder dig att lägga till Hiveway till ditt hemskärm kan du få push-meddelanden. Det fungerar som en inbyggd app på många sätt!
       tips: Tips
       title: Välkommen ombord, %{name}!
   users:

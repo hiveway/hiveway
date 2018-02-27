@@ -2,7 +2,7 @@
 sr-Latn:
   about:
     about_hashtag_html: Ovo su javni statusi tagovani sa <strong>#%{hashtag}</strong>. Možete odgovarati na njih ako imate nalog bilo gde u fediversu.
-    about_etherhive_html: EtherHivet je društvena mreža bazirana na otvorenim protokolima i slobodnom softveru otvorenog koda. Decentralizovana je kao što je decentralizovana e-pošta.
+    about_etherhive_html: Hivewayt je društvena mreža bazirana na otvorenim protokolima i slobodnom softveru otvorenog koda. Decentralizovana je kao što je decentralizovana e-pošta.
     about_this: O instanci
     closed_registrations: Registracije su trenutno zatvorene na ovoj instanci. Ipak! Možete naći drugu instancu na kojoj ćete napraviti nalog i odatle dobiti pristup istoj ovoj mreži.
     contact: Kontakt
@@ -15,9 +15,9 @@ sr-Latn:
       <h3>Dobro mesto za pravila</h3>
       <p>Prošireni opis koji još nije postavljen.</p>
     features:
-      humane_approach_body: Učeći od grešaka sa ostalih mreža, a da bi se borio protiv zloupotreba na društvenim mrežama, EtherHivet pokušava da pravi što etičkije odluke prilikom razvoja.
+      humane_approach_body: Učeći od grešaka sa ostalih mreža, a da bi se borio protiv zloupotreba na društvenim mrežama, Hivewayt pokušava da pravi što etičkije odluke prilikom razvoja.
       humane_approach_title: Humaniji pristup
-      not_a_product_body: EtherHivet nije komercijalna mreža. Nema reklama, nema skupljanja privatnih podataka, nema zaštićenih delova. Nema centralnog autoriteta.
+      not_a_product_body: Hivewayt nije komercijalna mreža. Nema reklama, nema skupljanja privatnih podataka, nema zaštićenih delova. Nema centralnog autoriteta.
       not_a_product_title: Vi ste osoba, ne proizvod
       real_conversation_body: Sa 500 karaktera na raspolaganju i podrškom za granularniji sadržaj i upozorenja na osetljiviji sadržaj, možete se izraziti kako god želite.
       real_conversation_title: Pravljen za pravi razgovor
@@ -25,7 +25,7 @@ sr-Latn:
       within_reach_title: Uvek u kontaktu
     find_another_instance: Nađite drugu instancu
     generic_description: "%{domain} je server na mreži"
-    hosted_on: EtherHivet hostovan na %{domain}
+    hosted_on: Hivewayt hostovan na %{domain}
     learn_more: Saznajte više
     other_instances: Lista instanci
     source_code: Izvorni kod
@@ -33,7 +33,7 @@ sr-Latn:
     status_count_before: Koji su napisali
     user_count_after: korisnika
     user_count_before: Dom za
-    what_is_etherhive: Šta je EtherHivet?
+    what_is_etherhive: Šta je Hivewayt?
   accounts:
     follow: Follow
     followers: Followers
@@ -404,7 +404,7 @@ sr-Latn:
     '500':
       content: Izvinjavamo se, nešto je pošlo po zlu sa ove strane.
       title: Strana nije ispravna
-    noscript_html: Da biste koristili EtherHivet veb aplikaciju, omogućite JavaScript.
+    noscript_html: Da biste koristili Hivewayt veb aplikaciju, omogućite JavaScript.
   exports:
     blocks: Blokirali ste
     csv: CSV
@@ -570,7 +570,7 @@ sr-Latn:
       weibo: Weibo
     current_session: Trenutna sesija
     description: "%{browser} sa %{platform}"
-    explanation: Ovo su trenutno prijavljeni veb čitači na Vaš EtherHivet nalog.
+    explanation: Ovo su trenutno prijavljeni veb čitači na Vaš Hivewayt nalog.
     ip: IP
     platforms:
       adobe_air: Adobe Air-a
@@ -696,7 +696,7 @@ sr-Latn:
       <p>Originally adapted from the <a href="https://github.com/discourse/discourse">Discourse privacy policy</a>.</p>
     title: Uslovi korišćenja i politika privatnosti instance %{instance}
   themes:
-    default: EtherHivet
+    default: Hivewayt
   time:
     formats:
       default: "%b %d, %Y, %H:%M"

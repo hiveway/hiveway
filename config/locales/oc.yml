@@ -2,7 +2,7 @@
 oc:
   about:
     about_hashtag_html: Vaquí los estatuts publics ligats a <strong>#%{hashtag}</strong>. Podètz interagir amb eles s’avètz un compte ont que siasque sul fediverse.
-    about_etherhive_html: EtherHive es un malhum social bastit amb de protocòls liures e gratuits. Es descentralizat coma los corrièls.
+    about_etherhive_html: Hiveway es un malhum social bastit amb de protocòls liures e gratuits. Es descentralizat coma los corrièls.
     about_this: A prepaus d’aquesta instància
     closed_registrations: Las inscripcions son clavadas pel moment sus aquesta instància.
     contact: Contacte
@@ -15,9 +15,9 @@ oc:
       <h3>Una bona plaça per las règlas</h3>
       <p>La descripcion longa es pas estada causida pel moment.</p>
     features:
-      humane_approach_body: Amb l’experiéncia dels fracasses d’autres malhums, EtherHive ten per objectiu de lutar contra los abuses dels malhums socials en far de causidas eticas.
+      humane_approach_body: Amb l’experiéncia dels fracasses d’autres malhums, Hiveway ten per objectiu de lutar contra los abuses dels malhums socials en far de causidas eticas.
       humane_approach_title: Un biais mai uman
-      not_a_product_body: EtherHive es pas un malhum comercial. Pas cap de reclama, d’utilizacion de vòstras donadas o d’òrt daurat clavat. I a pas cap d’autoritat centrala.
+      not_a_product_body: Hiveway es pas un malhum comercial. Pas cap de reclama, d’utilizacion de vòstras donadas o d’òrt daurat clavat. I a pas cap d’autoritat centrala.
       not_a_product_title: Sètz una persona, non pas un produit
       real_conversation_body: Amb 500 caractèrs a vòstra disposicion e un nivèl de confidencialitat per cada publicacion, podètz vos exprimir coma volètz.
       real_conversation_title: Fach per de conversacions vertadièras
@@ -25,7 +25,7 @@ oc:
       within_reach_title: Totjorn al costat
     find_another_instance: Trobar mai instàncias
     generic_description: "%{domain} es un dels servidors del malhum"
-    hosted_on: EtherHive albergat sus %{domain}
+    hosted_on: Hiveway albergat sus %{domain}
     learn_more: Ne saber mai
     other_instances: Lista d’instàncias
     source_code: Còdi font
@@ -33,7 +33,7 @@ oc:
     status_count_before: qu’an escrich
     user_count_after: personas
     user_count_before: Ostal de
-    what_is_etherhive: Qu’es EtherHive ?
+    what_is_etherhive: Qu’es Hiveway ?
   accounts:
     follow: Sègre
     followers: Seguidors
@@ -489,7 +489,7 @@ oc:
     '500':
       content: Un quicomet a pas foncionat coma caliá.
       title: Aquesta pagina es incorrècta
-    noscript_html: Per utilizar l’aplicacion web de EtherHive, mercés d’activar JavaScript.
+    noscript_html: Per utilizar l’aplicacion web de Hiveway, mercés d’activar JavaScript.
   exports:
     blocks: Personas que blocatz
     csv: CSV
@@ -656,7 +656,7 @@ oc:
       weibo: Weibo
     current_session: Session en cors
     description: "%{browser} sus %{platform}"
-    explanation: Aquí los navigators connectats a vòstre compte EtherHive.
+    explanation: Aquí los navigators connectats a vòstre compte Hiveway.
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -676,7 +676,7 @@ oc:
     title: Sessions
   settings:
     authorized_apps: Aplicacions autorizadas
-    back: Tornar a EtherHive
+    back: Tornar a Hiveway
     delete: Supression de compte
     development: Desvolopament
     edit_profile: Modificar lo perfil
@@ -811,12 +811,12 @@ oc:
       full_handle_hint: Es aquò que vos cal donar a vòstres amics per que pòscan vos escriure o sègre a partir d’una autra instància.
       review_preferences_action: Cambiar las preferéncias
       review_preferences_step: Pensatz de configurar vòstras preferéncias, tal coma los corrièls que volètz recebrer o lo nivèl de confidencialitat de vòstres tuts per defaut. O se l’animacion vos dòna pas enveja de rendre, podètz activar la lectura automatica dels GIF.
-      subject: Benvengut a EtherHive
-      tip_bridge_html: Se venètz de Twitter, podètz trobar vòstres amics sus EtherHive en utilizant l‘<a href="%{bridge_url}">aplicacion de Pont</a>. Aquò fonciona pas que s’utilizan lo Pont tanben !
-      tip_federated_timeline: Lo flux d’actualitat federat es una vista generala del malhum EtherHive. Mas aquò inclutz solament lo mond que vòstres vesins sègon, doncas es pas complèt.
+      subject: Benvengut a Hiveway
+      tip_bridge_html: Se venètz de Twitter, podètz trobar vòstres amics sus Hiveway en utilizant l‘<a href="%{bridge_url}">aplicacion de Pont</a>. Aquò fonciona pas que s’utilizan lo Pont tanben !
+      tip_federated_timeline: Lo flux d’actualitat federat es una vista generala del malhum Hiveway. Mas aquò inclutz solament lo mond que vòstres vesins sègon, doncas es pas complèt.
       tip_following: Seguètz l’administrator del servidor per defaut. Per trobar de mond mai interessant, agachatz lo flux d’actualitat local e lo global.
       tip_local_timeline: Lo flux d’actualitat local es una vista del mond de %{instance}. Son vòstres vesins dirèctes !
-      tip_mobile_webapp: Se vòstre navigator mobil nos permet d’apondre EtherHive a l’ecran d‘acuèlh, podètz recebre de notificacions. Aquò se compòrta coma una aplicacion nativa !
+      tip_mobile_webapp: Se vòstre navigator mobil nos permet d’apondre Hiveway a l’ecran d‘acuèlh, podètz recebre de notificacions. Aquò se compòrta coma una aplicacion nativa !
       tips: Astúcias
       title: Vos desirem la benvenguda a bòrd %{name} !
   users:

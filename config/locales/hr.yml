@@ -1,7 +1,7 @@
 ---
 hr:
   about:
-    about_etherhive_html: EtherHive je <em>besplatna, open-source</em> socijalna mreža. <em>Decentralizirana</em> alternativa komercijalnim platformama, izbjegava rizik toga da jedna tvrtka monopolizira vašu komunikaciju. Izaberite server kojem ćete vjerovati &mdash; koji god odabrali, moći ćete komunicirati sa svima ostalima. Bilo tko može imati svoju vlastitu EtherHive instancu i sudjelovati u <em>socijalnoj mreži</em> bez problema.
+    about_etherhive_html: Hiveway je <em>besplatna, open-source</em> socijalna mreža. <em>Decentralizirana</em> alternativa komercijalnim platformama, izbjegava rizik toga da jedna tvrtka monopolizira vašu komunikaciju. Izaberite server kojem ćete vjerovati &mdash; koji god odabrali, moći ćete komunicirati sa svima ostalima. Bilo tko može imati svoju vlastitu Hiveway instancu i sudjelovati u <em>socijalnoj mreži</em> bez problema.
     about_this: O ovoj instanci
     closed_registrations: Registracije na ovoj instanci su trenutno zatvorene.
     contact: Kontakt
@@ -125,7 +125,7 @@ hr:
     prompt: 'Slijediti ćeš:'
   settings:
     authorized_apps: Autorizirane aplikacije
-    back: Natrag na EtherHive
+    back: Natrag na Hiveway
     edit_profile: Uredi profil
     export: Izvoz podataka
     import: Uvezi

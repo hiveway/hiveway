@@ -20,31 +20,31 @@ pt:
         action: Verificar o endereço de e-mail
         explanation: Criaste uma conta em %{host} com este endereço de e-mail. Estás a um clique de activá-la. Se não foste tu que fizeste este registo, por favor ignora esta mensagem.
         extra_html: Por favor vê as <a href="%{terms_path}">as regras da instância</a> e os <a href="%{policy_path}">termos de serviço</a>.
-        subject: 'EtherHive: Instruções de confirmação %{instance}'
+        subject: 'Hiveway: Instruções de confirmação %{instance}'
         title: Verificar o endereço de e-mail
       email_changed:
         explanation: 'O e-mail associado à tua conta será alterado para:'
         extra: Se não alteraste o teu e-mail é possível que alguém tenha conseguido aceder à tua conta. Por favor muda a tua palavra-passe imediatamente ou entra em contato com um administrador da tua instância se ficaste sem acesso à tua conta.
-        subject: 'EtherHive: Email alterado'
+        subject: 'Hiveway: Email alterado'
         title: Novo endereço de e-mail
       password_change:
         explanation: A palavra-passe da tua conta foi alterada.
         extra: Se não alteraste a tua palavra-passe, é possível que alguém tenha conseguido aceder à tua conta. Por favor muda a tua palavra-passe imediatamente ou entra em contato com um administrador da tua instância se ficaste sem acesso à tua conta.
-        subject: 'EtherHive: Nova palavra-passe'
+        subject: 'Hiveway: Nova palavra-passe'
         title: Palavra-passe alterada
       reconfirmation_instructions:
         explanation: Confirma o teu novo endereço para alterar o e-mail.
-        extra: Se esta mudança não foi iniciada por ti, por favor ignora este e-mail. O endereço de e-mail para a tua conta do EtherHive não irá mudar enquanto não acederes ao link acima.
-        subject: 'EtherHive: Confirmação de e-mail %{instance}'
+        extra: Se esta mudança não foi iniciada por ti, por favor ignora este e-mail. O endereço de e-mail para a tua conta do Hiveway não irá mudar enquanto não acederes ao link acima.
+        subject: 'Hiveway: Confirmação de e-mail %{instance}'
         title: Validar o endereço de e-mail
       reset_password_instructions:
         action: Alterar palavra-passe
         explanation: Pediste a alteração da palavra-passe da tua conta.
         extra: Se fizeste este pedido, por favor ignore este e-mail. A tua palavra-passe não irá mudar se não acederes ao link acima e criares uma nova.
-        subject: 'EtherHive: Instruções para alterar a palavra-passe'
+        subject: 'Hiveway: Instruções para alterar a palavra-passe'
         title: Solicitar nova palavra-passe
       unlock_instructions:
-        subject: 'EtherHive: Instruções para desbloquear a tua conta'
+        subject: 'Hiveway: Instruções para desbloquear a tua conta'
     omniauth_callbacks:
       failure: Não foi possível autenticar %{kind} porque "%{reason}".
       success: Autenticado com sucesso na conta %{kind}.

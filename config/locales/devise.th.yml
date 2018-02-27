@@ -17,13 +17,13 @@ th:
       unconfirmed: You have to confirm your email address before continuing.
     mailer:
       confirmation_instructions:
-        subject: 'EtherHive: Confirmation instructions for %{instance}'
+        subject: 'Hiveway: Confirmation instructions for %{instance}'
       password_change:
-        subject: 'EtherHive: Password changed'
+        subject: 'Hiveway: Password changed'
       reset_password_instructions:
-        subject: 'EtherHive: Reset password instructions'
+        subject: 'Hiveway: Reset password instructions'
       unlock_instructions:
-        subject: 'EtherHive: Unlock instructions'
+        subject: 'Hiveway: Unlock instructions'
     omniauth_callbacks:
       failure: Could not authenticate you from %{kind} because "%{reason}".
       success: Successfully authenticated from %{kind} account.

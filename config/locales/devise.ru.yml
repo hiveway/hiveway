@@ -17,13 +17,13 @@ ru:
       unconfirmed: Вам необходимо подтвердить ваш адрес e-mail для продолжения.
     mailer:
       confirmation_instructions:
-        subject: 'EtherHive: Инструкция по подтверждению'
+        subject: 'Hiveway: Инструкция по подтверждению'
       password_change:
-        subject: 'EtherHive: Пароль изменен'
+        subject: 'Hiveway: Пароль изменен'
       reset_password_instructions:
-        subject: 'EtherHive: Инструкция по сбросу пароля'
+        subject: 'Hiveway: Инструкция по сбросу пароля'
       unlock_instructions:
-        subject: 'EtherHive: Инструкция по разблокировке'
+        subject: 'Hiveway: Инструкция по разблокировке'
     omniauth_callbacks:
       failure: Не получилось аутентифицировать Вас с помощью %{kind} по следующей причине - "%{reason}".
       success: Аутентификация с помощью аккаунта %{kind} прошла успешно.

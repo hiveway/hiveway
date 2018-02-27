@@ -12,7 +12,7 @@ ja:
         setting_noindex: 公開プロフィールおよび各投稿ページに影響します
         setting_theme: ログインしている全てのデバイスで適用されるデザインです。
       imports:
-        data: 他の EtherHive インスタンスからエクスポートしたCSVファイルを選択して下さい
+        data: 他の Hiveway インスタンスからエクスポートしたCSVファイルを選択して下さい
       sessions:
         otp: 携帯電話に表示された2段階認証コードを入力するか、生成したリカバリーコードを使用してください。
       user:

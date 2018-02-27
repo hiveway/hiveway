@@ -14,9 +14,9 @@ ca:
           one: <span class="note-counter">1</span> càracter left
           other: <span class="note-counter">%{count}</span> càracters
         setting_noindex: Afecta el teu perfil públic i les pàgines d'estat
-        setting_theme: Afecta la manera en què EtherHive es veu quan està connectat des de qualsevol dispositiu.
+        setting_theme: Afecta la manera en què Hiveway es veu quan està connectat des de qualsevol dispositiu.
       imports:
-        data: Arxiu CSV exportat desde una altra instància de EtherHive
+        data: Arxiu CSV exportat desde una altra instància de Hiveway
       sessions:
         otp: Introdueix el codi de dos factors des del teu telèfon o utilitza un dels teus codis de recuperació.
       user:

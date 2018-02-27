@@ -14,9 +14,9 @@ gl:
           one: <span class="note-counter">1</span> caracter restante
           other: <span class="note-counter">%{count}</span> caracteres restantes
         setting_noindex: Afecta ao seu perfil público e páxinas de estado
-        setting_theme: Afecta ao aspecto de EtherHive en calquer dispositivo cando está conectada.
+        setting_theme: Afecta ao aspecto de Hiveway en calquer dispositivo cando está conectada.
       imports:
-        data: Ficheiro CSV exportado desde outra instancia EtherHive
+        data: Ficheiro CSV exportado desde outra instancia Hiveway
       sessions:
         otp: Introduza o código de Doble-Factor desde o seu teléfono ou utilice un dos seus códigos de recuperación.
       user:

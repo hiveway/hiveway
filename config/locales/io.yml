@@ -1,7 +1,7 @@
 ---
 io:
   about:
-    about_etherhive_html: EtherHive esas <em>gratuita, apertitkodexa</em> sociala reto. Ol esas <em>sencentra</em> altra alternativo a komercala servadi. Ol evitigas, ke sola firmo guvernez tua tota komunikadol. Selektez servero, quan tu fidas. Irge qua esas tua selekto, tu povas komunikar kun omna altra uzeri. Irgu povas krear sua propra instaluro di EtherHive en sua servero, e partoprenar en la <em>sociala reto</em> tote glate.
+    about_etherhive_html: Hiveway esas <em>gratuita, apertitkodexa</em> sociala reto. Ol esas <em>sencentra</em> altra alternativo a komercala servadi. Ol evitigas, ke sola firmo guvernez tua tota komunikadol. Selektez servero, quan tu fidas. Irge qua esas tua selekto, tu povas komunikar kun omna altra uzeri. Irgu povas krear sua propra instaluro di Hiveway en sua servero, e partoprenar en la <em>sociala reto</em> tote glate.
     about_this: Pri ta instaluro
     closed_registrations: Membresko ne nun esas posible en ta instaluro.
     contact: Kontaktar
@@ -260,7 +260,7 @@ io:
     prompt: 'Tu sequeskos:'
   settings:
     authorized_apps: Yurizita apliki
-    back: Retro a EtherHive
+    back: Retro a Hiveway
     edit_profile: Redaktar la profilo
     export: Exportacar datumi
     import: Importacar

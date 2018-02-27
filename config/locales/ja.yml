@@ -2,7 +2,7 @@
 ja:
   about:
     about_hashtag_html: ハッシュタグ <strong>#%{hashtag}</strong> の付いた公開トゥートです。どこでもいいので、連合に参加しているSNS上にアカウントを作れば会話に参加することができます。
-    about_etherhive_html: EtherHive は、オープンなウェブプロトコルを採用した、自由でオープンソースなソーシャルネットワークです。電子メールのような分散型の仕組みを採っています。
+    about_etherhive_html: Hiveway は、オープンなウェブプロトコルを採用した、自由でオープンソースなソーシャルネットワークです。電子メールのような分散型の仕組みを採っています。
     about_this: 詳細情報
     closed_registrations: 現在このインスタンスでの新規登録は受け付けていません。しかし、他のインスタンスにアカウントを作成しても全く同じネットワークに参加することができます。
     contact: 連絡先
@@ -15,17 +15,17 @@ ja:
       <h3>ルールを書くのに適した場所</h3>
       <p>詳細説明が設定されていません。</p>
     features:
-      humane_approach_body: 他の SNS の失敗から学び、EtherHive はソーシャルメディアが誤った使い方をされることの無いように倫理的な設計を目指しています。
+      humane_approach_body: 他の SNS の失敗から学び、Hiveway はソーシャルメディアが誤った使い方をされることの無いように倫理的な設計を目指しています。
       humane_approach_title: より思いやりのある設計
-      not_a_product_body: EtherHive は営利的な SNS ではありません。広告や、データの収集・解析は無く、またユーザーの囲い込みもありません。
+      not_a_product_body: Hiveway は営利的な SNS ではありません。広告や、データの収集・解析は無く、またユーザーの囲い込みもありません。
       not_a_product_title: あなたは人間であり、商品ではありません
       real_conversation_body: 好きなように書ける500文字までの投稿や、文章やメディアの内容に警告をつけられる機能で、思い通りに自分自身を表現することができます。
       real_conversation_title: 本当のコミュニケーションのために
       within_reach_body: デベロッパーフレンドリーな API により実現された、iOS や Android、その他様々なプラットフォームのためのアプリでどこでも友人とやりとりできます。
       within_reach_title: いつでも身近に
     find_another_instance: 他のインスタンスを探す
-    generic_description: "%{domain} は、EtherHive インスタンスの一つです"
-    hosted_on: EtherHive hosted on %{domain}
+    generic_description: "%{domain} は、Hiveway インスタンスの一つです"
+    hosted_on: Hiveway hosted on %{domain}
     learn_more: もっと詳しく
     other_instances: 他のインスタンス
     source_code: ソースコード
@@ -33,7 +33,7 @@ ja:
     status_count_before: トゥート数
     user_count_after: 人
     user_count_before: ユーザー数
-    what_is_etherhive: EtherHive とは？
+    what_is_etherhive: Hiveway とは？
   accounts:
     follow: フォロー
     followers: フォロワー
@@ -411,7 +411,7 @@ ja:
     '500':
       content: もうしわけありませんが、なにかが間違っています。
       title: このページは正しくありません
-    noscript_html: EtherHiveのウェブアプリケーションを利用する場合はJavaScriptを有効にしてください。
+    noscript_html: Hivewayのウェブアプリケーションを利用する場合はJavaScriptを有効にしてください。
   exports:
     blocks: ブロック
     csv: CSV
@@ -578,7 +578,7 @@ ja:
       weibo: Weibo
     current_session: 現在のセッション
     description: "%{browser} on %{platform}"
-    explanation: あなたのEtherHiveアカウントに現在ログインしているウェブブラウザの一覧です。
+    explanation: あなたのHivewayアカウントに現在ログインしているウェブブラウザの一覧です。
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -598,7 +598,7 @@ ja:
     title: セッション
   settings:
     authorized_apps: 認証済みアプリ
-    back: EtherHive に戻る
+    back: Hiveway に戻る
     delete: アカウントの削除
     development: 開発
     edit_profile: プロフィールを編集
@@ -704,7 +704,7 @@ ja:
       <p>オリジナルの出典 <a href="https://github.com/discourse/discourse">Discourse privacy policy</a>.</p>
     title: "%{instance} 利用規約・プライバシーポリシー"
   themes:
-    default: EtherHive
+    default: Hiveway
   time:
     formats:
       default: "%Y年%m月%d日 %H:%M"
@@ -735,12 +735,12 @@ ja:
       full_handle_hint: これは別のインスタンスからフォローしてもらったりメッセージのやり取りをする際に、友達に伝えるといいでしょう。
       review_preferences_action: 設定の変更
       review_preferences_step: 受け取りたいメールや投稿の公開範囲などの設定を必ず行ってください。不快でないならアニメーション GIF の自動再生を有効にすることもできます。
-      subject: EtherHive へようこそ
-      tip_bridge_html: もし Twitter から来られたのであれば、<a href="%{bridge_url}">bridge app</a> を使用することで EtherHive での友達のアカウントを探すこともできます。ただし bridge app を使用したことのある相手に限ります！
-      tip_federated_timeline: 連合タイムラインは EtherHive ネットワークの流れを見られるものです。ただしあなたと同じインスタンスの人がフォローしている人だけが含まれるので、それが全てではありません。
+      subject: Hiveway へようこそ
+      tip_bridge_html: もし Twitter から来られたのであれば、<a href="%{bridge_url}">bridge app</a> を使用することで Hiveway での友達のアカウントを探すこともできます。ただし bridge app を使用したことのある相手に限ります！
+      tip_federated_timeline: 連合タイムラインは Hiveway ネットワークの流れを見られるものです。ただしあなたと同じインスタンスの人がフォローしている人だけが含まれるので、それが全てではありません。
       tip_following: 標準では自動でインスタンスの管理者をフォローしています。もっと興味のある人たちを見つけるには、ローカルタイムラインと連合タイムラインを確認してください。
       tip_local_timeline: ローカルタイムラインは %{instance} にいる人々の流れを見られるものです。彼らはあなたと同じインスタンスにいる隣人のようなものです！
-      tip_mobile_webapp: もしモバイル端末のブラウザで EtherHive をホーム画面に追加できる場合、プッシュ通知を受け取ることができます。それはまるでネイティブアプリのように動作します！
+      tip_mobile_webapp: もしモバイル端末のブラウザで Hiveway をホーム画面に追加できる場合、プッシュ通知を受け取ることができます。それはまるでネイティブアプリのように動作します！
       tips: 豆知識
       title: ようこそ、 %{name}!
   users:

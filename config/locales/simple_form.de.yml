@@ -14,9 +14,9 @@ de:
           one: <span class="note-counter">1</span> Zeichen verbleibt
           other: <span class="note-counter">%{count}</span> Zeichen verbleiben
         setting_noindex: Betrifft dein öffentliches Profil und deine Beiträge
-        setting_theme: Wirkt sich darauf aus, wie EtherHive aussieht, egal auf welchem Gerät du eingeloggt bist.
+        setting_theme: Wirkt sich darauf aus, wie Hiveway aussieht, egal auf welchem Gerät du eingeloggt bist.
       imports:
-        data: CSV-Datei, die aus einer anderen EtherHive-Instanz exportiert wurde
+        data: CSV-Datei, die aus einer anderen Hiveway-Instanz exportiert wurde
       sessions:
         otp: Gib den Zwei-Faktor-Authentisierungs-Code von deinem Telefon ein oder benutze einen deiner Wiederherstellungscodes.
       user:

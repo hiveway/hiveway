@@ -2,7 +2,7 @@
 hu:
   about:
     about_hashtag_html: Ezek a <strong>#%{hashtag}</strong> címkével ellátott publikus tülkök. Reagálhatsz rájuk, ha már van felhasználói fiókod valahol a föderációban.
-    about_etherhive_html: EtherHive egy <em>szabad, nyílt forráskódú</em> szociális hálózati kiszolgálo. Egy <em>központosítatlan</em> alternatíva a kereskedelmi platformokra, elkerüli a kommunikációd monopolizációját veszélyét. Bárki futtathatja a EtherHive-t és részt vehet a <em>szociális hálózatban</em>.
+    about_etherhive_html: Hiveway egy <em>szabad, nyílt forráskódú</em> szociális hálózati kiszolgálo. Egy <em>központosítatlan</em> alternatíva a kereskedelmi platformokra, elkerüli a kommunikációd monopolizációját veszélyét. Bárki futtathatja a Hiveway-t és részt vehet a <em>szociális hálózatban</em>.
     about_this: Rólunk
     closed_registrations: A regisztráció jelenleg nem engedélyezett ezen az instancián. De ne csüggedj! Létrehozhatsz fiókot egy másik instancián és azon keresztül is hozzáférsz a teljes föderációhoz.
     contact: Kapcsolat
@@ -15,9 +15,9 @@ hu:
       <h3>Ez itt a szabályzat helye</h3>
       <p>Még nem állítottál be bővebb leírást.</p>
     features:
-      humane_approach_body: Más alkalmazások hibáiból tanulva a EtherHive etikus alapokon nyugvó döntésekkel küzd a közösségi média ártalmai ellen.
+      humane_approach_body: Más alkalmazások hibáiból tanulva a Hiveway etikus alapokon nyugvó döntésekkel küzd a közösségi média ártalmai ellen.
       humane_approach_title: Emberséges attitűd
-      not_a_product_body: A EtherHive nem a profitszerzésre épül, nem is privát játszótér. Nincsenek reklámok, nincs adatbányászat és központosított döntéshozatal sincsen.
+      not_a_product_body: A Hiveway nem a profitszerzésre épül, nem is privát játszótér. Nincsenek reklámok, nincs adatbányászat és központosított döntéshozatal sincsen.
       not_a_product_title: Ember vagy, nem pedig árucikk
       real_conversation_body: Az 500 karakteres limit, az érzékeny tartalomként jelölés és más kifinomult eszközök segítségével tényleg egyedi módon fejezheted ki önmagad.
       real_conversation_title: Valódi beszélgetésekre tervezve
@@ -25,7 +25,7 @@ hu:
       within_reach_title: Mindig elérhetőnek lenni
     find_another_instance: További instanciák keresése
     generic_description: "%{domain} csak egy a számtalan szerver közül a föderációban"
-    hosted_on: "%{domain} EtherHive instancia"
+    hosted_on: "%{domain} Hiveway instancia"
     learn_more: Tudj meg többet
     other_instances: Instanciák listája
     source_code: Forráskód
@@ -33,7 +33,7 @@ hu:
     status_count_before: eddig
     user_count_after: felhasználónk
     user_count_before: Összesen
-    what_is_etherhive: Mi a EtherHive?
+    what_is_etherhive: Mi a Hiveway?
   accounts:
     follow: Követés
     followers: Követők
@@ -411,7 +411,7 @@ hu:
     '500':
       content: Sajnáljuk, valami hiba történt a mi oldalunkon.
       title: Az oldal nem megfelelő
-    noscript_html: A EtherHive webalkalmazás használatához engedélyezned kell a JavaScriptet.
+    noscript_html: A Hiveway webalkalmazás használatához engedélyezned kell a JavaScriptet.
   exports:
     blocks: Tiltólistádon
     csv: CSV
@@ -598,7 +598,7 @@ hu:
     title: Munkamenetek
   settings:
     authorized_apps: Jóváhagyott alkalmazások
-    back: Vissza a EtherHivehoz
+    back: Vissza a EHivewayhoz
     delete: Fiók törlése
     development: Fejlesztőknek
     edit_profile: Profil szerkesztése
@@ -636,7 +636,7 @@ hu:
   terms:
     title: "%{instance} Felhasználási feltételek és Adatkezelési nyilatkozat"
   themes:
-    default: EtherHive
+    default: Hiveway
   time:
     formats:
       default: "%Y %b %d, %H:%M"

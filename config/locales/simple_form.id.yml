@@ -9,7 +9,7 @@ id:
         locked: Anda harus menerima permintaan pengikut secara manual dan setting privasi postingan akan diubah khusus untuk pengikut
         note: Maksimum 160 karakter
       imports:
-        data: File CSV yang diexpor dari server EtherHive lain
+        data: File CSV yang diexpor dari server Hiveway lain
       sessions:
         otp: Masukkan kode dua-faktor dari handphone atau gunakan kode pemulihan anda.
     labels:

@@ -20,31 +20,31 @@ gl:
         action: Validar enderezo de correo-e
         explanation: Creou unha conta en %{host} con este enderezo de correo. Está a punto de activalo, si non foi vostede quen fixo a petición, por favor ignore este correo.
         extra_html: Por favor, lea tamén <a href="%{terms_path}">as normas da instancia</a> e <a href="%{policy_path}">os termos do servizo</a>.
-        subject: 'EtherHive: Instruccións de confirmación para %{instance}'
+        subject: 'Hiveway: Instruccións de confirmación para %{instance}'
         title: Verificar enderezo de correo-e
       email_changed:
         explanation: 'O seu enderezo de correo para esta conta foi cambiado a:'
         extra: Si non fixo a petición de cambio de correo-e é probable que alguén obtivese acceso a súa conta. Por favor, cambie o contrasinal inmediatamente ou contacte coa administración da instancia si non ten acceso a súa conta.
-        subject: 'EtherHive: email cambiado'
+        subject: 'Hiveway: email cambiado'
         title: Novo enderezo de correo
       password_change:
         explanation: Cambiouse o contrasinal da súa conta.
         extra: Si non cambio o contrasinal, é probable que alguén obtivese acceso a súa conta. Por favor cambie o contrasinal inmediatamente ou contacte coa administración da instancia si non ten acceso a súa conta.
-        subject: 'EtherHive: contrasinal cambiado'
+        subject: 'Hiveway: contrasinal cambiado'
         title: Contrainal cambiado
       reconfirmation_instructions:
         explanation: Confirme o novo enderezo para cambiar o correo-e.
-        extra: Si vostede non fixo esta petición, ignore este correo por favor. Este enderezo de correo-e para a conta EtherHive non cambiará ate que acceda a ligazón superior.
-        subject: 'EtherHive: Confirme email para %{instance}'
+        extra: Si vostede non fixo esta petición, ignore este correo por favor. Este enderezo de correo-e para a conta Hiveway non cambiará ate que acceda a ligazón superior.
+        subject: 'Hiveway: Confirme email para %{instance}'
         title: Verificación do enderezo de correo-e
       reset_password_instructions:
         action: Cambiar contrasinal
         explanation: Solicitou un novo contrasinal para a súa conta.
         extra: Si non fixo esta solicitude, por favor ignore este correo. O seu contrasinal non cambiará ate que acceda a ligazón superior e cree unha nova.
-        subject: 'EtherHive: Instruccións para restablecer o contrasinal'
+        subject: 'Hiveway: Instruccións para restablecer o contrasinal'
         title: Restablecer contrasinal
       unlock_instructions:
-        subject: 'EtherHive: Instruccións para desbloquear'
+        subject: 'Hiveway: Instruccións para desbloquear'
     omniauth_callbacks:
       failure: Non podemos autenticala desde %{kind} porque "%{reason}".
       success: Autenticouse con éxito desde a conta %{kind}.

@@ -5,12 +5,12 @@
 # Administrator using the Web UI.
 #
 defaults: &defaults
-  site_title: EtherHive
-  site_description: 'EtherHive is to become a direct democratic social network, running fully autonomously. Its users will be able to post and interact with messages, photos and videos. The social platform will be ruled by its users, through an electoral system, with technocratic values.  The users will receive the right to vote on the development of the platform, to run for a position in managing it, and to vote the candidates they believe more competent for each position.'
+  site_title: Hiveway
+  site_description: 'Hiveway is to become a direct democratic social network, running fully autonomously. Its users will be able to post and interact with messages, photos and videos. The social platform will be ruled by its users, through an electoral system, with technocratic values.  The users will receive the right to vote on the development of the platform, to run for a position in managing it, and to vote the candidates they believe more competent for each position.'
   site_extended_description: ''
   site_terms: ''
-  site_contact_username: '@etherhive'
-  site_contact_email: 'contact@etherhive.io'
+  site_contact_username: '@hiveway'
+  site_contact_email: 'contact@hiveway.io'
   open_registrations: true
   closed_registrations_message: ''
   open_deletion: true

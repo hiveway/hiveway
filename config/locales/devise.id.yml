@@ -17,13 +17,13 @@ id:
       unconfirmed: Anda harus mengkonfirmasi alamat email terlebih dahulu.
     mailer:
       confirmation_instructions:
-        subject: 'EtherHive: Petunjuk mengkonfirmasi untuk %{instance}'
+        subject: 'Hiveway: Petunjuk mengkonfirmasi untuk %{instance}'
       password_change:
-        subject: 'EtherHive: Kata sandi telah diubah'
+        subject: 'Hiveway: Kata sandi telah diubah'
       reset_password_instructions:
-        subject: 'EtherHive: Petunjuk mereset kata sandi'
+        subject: 'Hiveway: Petunjuk mereset kata sandi'
       unlock_instructions:
-        subject: 'EtherHive: Petunjuk membuka'
+        subject: 'Hiveway: Petunjuk membuka'
     omniauth_callbacks:
       failure: Tidak dapat mengautentikasi anda dari %{kind} karena "%{reason}".
       success: Autentikasi dari akun %{kind} berhasil dilakukan.

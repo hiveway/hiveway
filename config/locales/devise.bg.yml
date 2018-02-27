@@ -17,9 +17,9 @@ bg:
       unconfirmed: Преди да продължиш, трябва да потвърдиш регистрацията си.
     mailer:
       confirmation_instructions:
-        subject: 'EtherHive: Инструкции за потвърждаване'
+        subject: 'Hiveway: Инструкции за потвърждаване'
       password_change:
-        subject: 'EtherHive: Паролата е променена'
+        subject: 'Hiveway: Паролата е променена'
       reset_password_instructions:
         subject: Инструкции за смяна на паролата
       unlock_instructions:

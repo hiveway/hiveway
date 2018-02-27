@@ -17,13 +17,13 @@ sr-Latn:
       unconfirmed: Pre nastavka morate potvrditi svoj nalog.
     mailer:
       confirmation_instructions:
-        subject: 'EtherHive: Uputstvo za potvrdu korisničkog naloga na instanci %{instance}'
+        subject: 'Hiveway: Uputstvo za potvrdu korisničkog naloga na instanci %{instance}'
       password_change:
-        subject: 'EtherHive: Lozinka promenjena'
+        subject: 'Hiveway: Lozinka promenjena'
       reset_password_instructions:
-        subject: 'EtherHive: Uputstvo za resetovanje lozinke'
+        subject: 'Hiveway: Uputstvo za resetovanje lozinke'
       unlock_instructions:
-        subject: 'EtherHive: Uputstvo za otključavanje korisničkog naloga'
+        subject: 'Hiveway: Uputstvo za otključavanje korisničkog naloga'
     omniauth_callbacks:
       failure: Nismo u mogućnosti autorizovati Vas sa %{kind} nalogom zbog "%{reason}".
       success: Uspešna autorizacija sa %{kind} naloga.

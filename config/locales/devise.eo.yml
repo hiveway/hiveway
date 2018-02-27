@@ -22,15 +22,15 @@ eo:
         title: Kontrolu la retmesaĝan adreson
       email_changed:
         explanation: 'La retmesaĝa adreso de via konto estas ŝanĝonta al:'
-        subject: 'EtherHive: retmesaĝa adreso ŝanĝiĝis'
+        subject: 'Hiveway: retmesaĝa adreso ŝanĝiĝis'
         title: Nova retmesaĝa adreso
       password_change:
         explanation: La pasvorto de via konto ŝanĝiĝis.
-        subject: 'EtherHive: via pasvorto estis ŝanĝita senprobleme'
+        subject: 'Hiveway: via pasvorto estis ŝanĝita senprobleme'
         title: Pasvorto ŝanĝita
       reconfirmation_instructions:
         explanation: Retajpu la novan adreson por ŝanĝi vian retmesaĝujon.
-        subject: 'EtherHive: jesigi retmesaĝon por %{instance}'
+        subject: 'Hiveway: jesigi retmesaĝon por %{instance}'
         title: Kontrolu la retmesaĝan adreson
       reset_password_instructions:
         action: Ŝanĝi la pasvorton

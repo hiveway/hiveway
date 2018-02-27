@@ -16,7 +16,7 @@ hu:
         setting_noindex: A publikus profilodra és státusz oldalra vonatkozik
         setting_theme: A bármely eszközről bejelentkezett felület kinézetére vonatkozik.
       imports:
-        data: Egy másik EtherHive szerverről exportált CSV fájl
+        data: Egy másik Hiveway szerverről exportált CSV fájl
       sessions:
         otp: Add meg a Második-faktor kódodat a telefonodról vagy használd az egyik tartalék bejelentkező kódodat.
       user:

@@ -17,13 +17,13 @@ fi:
       unconfirmed: Sinun tarvitsee varmentaa sähköpostisi jatkaaksesi.
     mailer:
       confirmation_instructions:
-        subject: 'EtherHive: Varmistus ohjeet'
+        subject: 'Hiveway: Varmistus ohjeet'
       password_change:
-        subject: 'EtherHive: Salasana vaihdettu'
+        subject: 'Hiveway: Salasana vaihdettu'
       reset_password_instructions:
-        subject: 'EtherHive: Salasanan vaihto ohjeet'
+        subject: 'Hiveway: Salasanan vaihto ohjeet'
       unlock_instructions:
-        subject: 'EtherHive: Avauksen ohjeet'
+        subject: 'Hiveway: Avauksen ohjeet'
     omniauth_callbacks:
       failure: Varmennus %{kind} epäonnistui koska "%{reason}".
       success: Onnistuneesti varmennettu %{kind} tilillä.

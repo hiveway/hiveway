@@ -20,31 +20,31 @@ es:
         action: Verificar dirección de correo electrónico
         explanation: Has creado una cuenta en %{host} con esta dirección de correo electrónico. Estas a un clic de activarla. Si no fue usted, por favor ignore este correo electrónico.
         extra_html: Por favor revise <a href="%{terms_path}">las reglas de la instancia</a> y <a href="%{policy_path}">nuestros términos de servicio</a>.
-        subject: 'EtherHive: Instrucciones de confirmación para %{instance}'
+        subject: 'Hiveway: Instrucciones de confirmación para %{instance}'
         title: Verificar dirección de correo electrónico
       email_changed:
         explanation: 'El correo electrónico para su cuenta esta siendo cambiada a:'
         extra: Si usted no a cambiado su correo electrónico. es probable que alguien a conseguido acceso a su cuenta. Por favor cambie su contraseña inmediatamente o contacte a el administrador de la instancia si usted esta bloqueado de su cuenta.
-        subject: 'EtherHive: Correo electrónico cambiado'
+        subject: 'Hiveway: Correo electrónico cambiado'
         title: Nueva dirección de correo electrónico
       password_change:
         explanation: La contraseña de su cuenta a sido cambiada.
         extra: Si usted no a cambiado su contraseña. es probable que alguien a conseguido acceso a su cuenta. Por favor cambie su contraseña inmediatamente o contacte a el administrador de la instancia si usted esta bloqueado de su cuenta.
-        subject: 'EtherHive: Contraseña cambiada'
+        subject: 'Hiveway: Contraseña cambiada'
         title: Contraseña cambiada
       reconfirmation_instructions:
         explanation: Confirme la nueva dirección para cambiar su coreo electrónico.
-        extra: Si no iniciaste este cambio, por favor ignora este correo. Esta dirección de correo para la cuenta de EtherHive no cambiará hasta que accedas al vinculo arriba.
-        subject: 'EtherHive: Confirme correo electrónico para %{instance}'
+        extra: Si no iniciaste este cambio, por favor ignora este correo. Esta dirección de correo para la cuenta de Hiveway no cambiará hasta que accedas al vinculo arriba.
+        subject: 'Hiveway: Confirme correo electrónico para %{instance}'
         title: Verifique dirección de correo electrónico
       reset_password_instructions:
         action: Cambiar contraseña
         explanation: Solicitaste una nueva contraseña para tu cuenta.
         extra: Si no solicitaste esto, por favor ignora este correo. Tu contraseña no cambiará hasta que tu accedas al vinculo arriba y crees una nueva.
-        subject: 'EtherHive: Instrucciones para reiniciar contraseña'
+        subject: 'Hiveway: Instrucciones para reiniciar contraseña'
         title: Reiniciar contraseña
       unlock_instructions:
-        subject: 'EtherHive: Instrucciones para desbloquear'
+        subject: 'Hiveway: Instrucciones para desbloquear'
     omniauth_callbacks:
       failure: No podemos autentificarle desde %{kind} debido a "%{reason}".
       success: Autentificado con éxito desde la cuenta %{kind} .

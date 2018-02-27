@@ -2,9 +2,9 @@
 de:
   about:
     about_hashtag_html: Dies sind öffentliche Beiträge, die mit <strong>#%{hashtag}</strong> getaggt wurden. Wenn du ein Konto irgendwo im Fediversum besitzt, kannst du mit ihnen interagieren.
-    about_etherhive_html: EtherHive ist ein soziales Netzwerk. Es basiert auf offenen Web-Protokollen und freier, quelloffener Software. Es ist dezentral (so wie E-Mail!).
+    about_etherhive_html: Hiveway ist ein soziales Netzwerk. Es basiert auf offenen Web-Protokollen und freier, quelloffener Software. Es ist dezentral (so wie E-Mail!).
     about_this: Über diese Instanz
-    closed_registrations: Die Registrierung auf dieser Instanz ist momentan geschlossen. Aber du kannst dein Konto auch auf einer anderen Instanz erstellen! Von dort hast du genauso Zugriff auf das EtherHive-Netzwerk.
+    closed_registrations: Die Registrierung auf dieser Instanz ist momentan geschlossen. Aber du kannst dein Konto auch auf einer anderen Instanz erstellen! Von dort hast du genauso Zugriff auf das Hiveway-Netzwerk.
     contact: Kontakt
     contact_missing: Nicht angegeben
     contact_unavailable: N/A
@@ -15,9 +15,9 @@ de:
       <h3>Ein guter Platz für Regeln</h3>
       <p>Die erweiterte Beschreibung wurde noch nicht aufgesetzt.</p>
     features:
-      humane_approach_body: EtherHive hat von den Fehlern anderer Netzwerke gelernt und wurde mit dem Augenmerk darauf entwickelt, den Missbrauch sozialer Medien zu bekämpfen.
+      humane_approach_body: Hiveway hat von den Fehlern anderer Netzwerke gelernt und wurde mit dem Augenmerk darauf entwickelt, den Missbrauch sozialer Medien zu bekämpfen.
       humane_approach_title: Ein menschlicherer Ansatz
-      not_a_product_body: EtherHive ist kein kommerzielles Netzwerk. Keine Werbung, kein Abgraben deiner Daten, keine geschlossene Plattform. Es gibt keine Zentrale.
+      not_a_product_body: Hiveway ist kein kommerzielles Netzwerk. Keine Werbung, kein Abgraben deiner Daten, keine geschlossene Plattform. Es gibt keine Zentrale.
       not_a_product_title: Du bist ein Mensch und keine Ware
       real_conversation_body: Mit 500 Zeichen pro Beitrag und der Ermöglichung präziser Inhalts- und Bilderwarnungen kannst du dich so ausdrücken, wie du es möchtest.
       real_conversation_title: Für das echte Gespräch gemacht
@@ -25,7 +25,7 @@ de:
       within_reach_title: Immer für dich da
     find_another_instance: Eine andere Instanz finden
     generic_description: "%{domain} ist ein Server im Netzwerk"
-    hosted_on: EtherHive, beherbergt auf %{domain}
+    hosted_on: Hiveway, beherbergt auf %{domain}
     learn_more: Mehr erfahren
     other_instances: Andere Instanzen
     source_code: Quellcode
@@ -33,7 +33,7 @@ de:
     status_count_before: die
     user_count_after: Wesen
     user_count_before: Zuhause für
-    what_is_etherhive: Was ist EtherHive?
+    what_is_etherhive: Was ist Hiveway?
   accounts:
     follow: Folgen
     followers: Folgende
@@ -411,7 +411,7 @@ de:
     '500':
       content: Bitte verzeih, etwas ist bei uns schief gegangen.
       title: Diese Seite ist kaputt
-    noscript_html: Bitte aktiviere JavaScript, um die EtherHive-Web-Anwendung zu verwenden.
+    noscript_html: Bitte aktiviere JavaScript, um die Hiveway-Web-Anwendung zu verwenden.
   exports:
     blocks: Du hast blockiert
     csv: CSV
@@ -578,7 +578,7 @@ de:
       weibo: Weibo
     current_session: Aktuelle Sitzung
     description: "%{browser} auf %{platform}"
-    explanation: Dies sind die Webbrowser, die derzeit in dein EtherHive-Konto eingeloggt sind.
+    explanation: Dies sind die Webbrowser, die derzeit in dein Hiveway-Konto eingeloggt sind.
     ip: IP-Adresse
     platforms:
       adobe_air: Adobe Air
@@ -598,7 +598,7 @@ de:
     title: Sitzungen
   settings:
     authorized_apps: Autorisierte Anwendungen
-    back: Zurück zu EtherHive
+    back: Zurück zu Hiveway
     delete: Konto löschen
     development: Entwicklung
     edit_profile: Profil bearbeiten
@@ -663,12 +663,12 @@ de:
       full_handle_hint: Dies ist was du deinen Freunden sagen kannst, damit sie dich anschreiben oder von einer anderen Instanz folgen können.
       review_preferences_action: Einstellungen ändern
       review_preferences_step: Stelle sicher, dass du deine Einstellungen einstellst, wie zum Beispiel welche E-Mails du gerne erhalten möchtest oder was für Privatsphäreneinstellungen voreingestellt werden sollten. Wenn dir beim Ansehen von GIFs nicht schwindelig wird, dann kannst du auch das automatische Abspielen dieser aktivieren.
-      subject: Willkommen bei EtherHive
-      tip_bridge_html: Wenn du gerade von Twitter kommst, dann kannst du deine Freunde auf EtherHive mithilfe der <a href="%{bridge_url}">Bridge-App</a> finden. Es funktioniert aber auch nur, wenn diese die Bridge-App vorher verwendet haben!
-      tip_federated_timeline: Die föderierte Zeitleiste ist die sehr große Ansicht vom EtherHive-Netzwerk. Sie enthält aber auch nur Leute, denen du und deine Nachbarn folgen, sie ist also nicht komplett.
+      subject: Willkommen bei Hiveway
+      tip_bridge_html: Wenn du gerade von Twitter kommst, dann kannst du deine Freunde auf Hiveway mithilfe der <a href="%{bridge_url}">Bridge-App</a> finden. Es funktioniert aber auch nur, wenn diese die Bridge-App vorher verwendet haben!
+      tip_federated_timeline: Die föderierte Zeitleiste ist die sehr große Ansicht vom Hiveway-Netzwerk. Sie enthält aber auch nur Leute, denen du und deine Nachbarn folgen, sie ist also nicht komplett.
       tip_following: Du folgst standardmäßig deinen Server-Admin(s). Um mehr interessante Leute zu finden, kannst du die lokale oder öffentliche Zeitleiste durchsuchen.
       tip_local_timeline: Die lokale Zeitleiste ist eine Ansicht aller Leute auf %{instance}. Diese sind deine Nachbarn!
-      tip_mobile_webapp: Wenn dein mobiler Browser dir anbietet EtherHive zu deinem Startbildschirm hinzuzufügen, dann kannst du Benachrichtigungen erhalten. Es verhält sich wie eine native App in vielen Wegen!
+      tip_mobile_webapp: Wenn dein mobiler Browser dir anbietet Hiveway zu deinem Startbildschirm hinzuzufügen, dann kannst du Benachrichtigungen erhalten. Es verhält sich wie eine native App in vielen Wegen!
       tips: Tipps
       title: Willkommen an Bord, %{name}!
   users:

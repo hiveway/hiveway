@@ -2,7 +2,7 @@
 fr:
   about:
     about_hashtag_html: Figurent ci-dessous les pouets tagués avec <strong>#%{hashtag}</strong>. Vous pouvez interagir avec eux si vous avez un compte n’importe où dans le Fediverse.
-    about_etherhive_html: EtherHive est un réseau social utilisant des formats ouverts et des logiciels libres. Comme le courriel, il est décentralisé.
+    about_etherhive_html: Hiveway est un réseau social utilisant des formats ouverts et des logiciels libres. Comme le courriel, il est décentralisé.
     about_this: À propos
     closed_registrations: Les inscriptions sont actuellement fermées sur cette instance. Cependant, vous pouvez trouver une autre instance sur laquelle vous créer un compte et à partir de laquelle vous pourrez accéder au même réseau.
     contact: Contact
@@ -15,9 +15,9 @@ fr:
       <h3>Un bon endroit pour les règles</h3>
       <p>La description étendue n’a pas été remplie.</p>
     features:
-      humane_approach_body: Ayant appris des échecs d’autres réseaux, EtherHive à l’ambition de combattre l’abus des médias sociaux en effectuant des choix de conception éthiques.
+      humane_approach_body: Ayant appris des échecs d’autres réseaux, Hiveway à l’ambition de combattre l’abus des médias sociaux en effectuant des choix de conception éthiques.
       humane_approach_title: Une approche plus humaine
-      not_a_product_body: EtherHive n’est pas un réseau commercial. Ici, pas de publicités, pas de prospection de données et pas d’environnement fermés. Il n’y existe aucune autorité centrale.
+      not_a_product_body: Hiveway n’est pas un réseau commercial. Ici, pas de publicités, pas de prospection de données et pas d’environnement fermés. Il n’y existe aucune autorité centrale.
       not_a_product_title: Vous êtes une personne, pas un produit
       real_conversation_body: Avec 500 caractères à votre dispostion, une grande granularité en terme de diffusion et la possibilité de masquer vos messages derrières des avertissements, vous êtes libre de vous exprimer de la manière qui vous plaît.
       real_conversation_title: Construit pour de vraies conversations
@@ -25,7 +25,7 @@ fr:
       within_reach_title: Toujours à portée de main
     find_another_instance: Trouver une autre instance
     generic_description: "%{domain} est seulement un serveur du réseau"
-    hosted_on: Instance EtherHive hébergée par %{domain}
+    hosted_on: Instance Hiveway hébergée par %{domain}
     learn_more: En savoir plus
     other_instances: Liste des instances
     source_code: Code source
@@ -33,7 +33,7 @@ fr:
     status_count_before: Ayant publié
     user_count_after: utilisateur⋅ice⋅s
     user_count_before: Abrite
-    what_is_etherhive: Qu’est-ce que EtherHive ?
+    what_is_etherhive: Qu’est-ce que Hiveway ?
   accounts:
     follow: Suivre
     followers: Abonné⋅e⋅s
@@ -411,7 +411,7 @@ fr:
     '500':
       content: Nous sommes désolé·e·s, mais quelque chose s’est mal passé de notre côté.
       title: Cette page n’est pas correcte
-    noscript_html: Pour utiliser EtherHive, veuillez activer JavaScript.
+    noscript_html: Pour utiliser Hiveway, veuillez activer JavaScript.
   exports:
     blocks: Vous bloquez
     csv: CSV
@@ -578,7 +578,7 @@ fr:
       weibo: Weibo
     current_session: Session courante
     description: "%{browser} sur %{platform}"
-    explanation: Ceci est la liste des navigateurs actuellement connectés à votre compte EtherHive.
+    explanation: Ceci est la liste des navigateurs actuellement connectés à votre compte Hiveway.
     ip: Adresse IP
     platforms:
       adobe_air: Adobe Air
@@ -598,7 +598,7 @@ fr:
     title: Sessions
   settings:
     authorized_apps: Applications autorisées
-    back: Retour vers EtherHive
+    back: Retour vers Hiveway
     delete: Suppression de compte
     development: Développement
     edit_profile: Modifier le profil
@@ -704,7 +704,7 @@ fr:
       <p>Originellement adapté à partir de la politique de confidentialité de <a href="https://github.com/discourse/discourse">Discourse</a>.</p>
     title: "%{instance} Conditions d’utilisations et politique de confidentialité"
   themes:
-    default: EtherHive
+    default: Hiveway
   time:
     formats:
       default: "%d %b %Y, %H:%M"
@@ -735,12 +735,12 @@ fr:
       full_handle_hint: C'est ce que vous diriez à vos amis pour qu'ils puissent vous envoyer un message ou vous suivre à partir d'une autre instance.
       review_preferences_action: Modifier les préférences
       review_preferences_step: Assurez-vous de définir vos préférences, telles que les courriels que vous aimeriez recevoir ou le niveau de confidentialité auquel vous aimeriez que vos messages soient soumis par défaut. Si vous n'avez pas le mal des transports, vous pouvez choisir d'activer la lecture automatique GIF.
-      subject: Bienvenue sur EtherHive
-      tip_bridge_html: Si vous venez de Twitter, vous pouvez retrouver vos amis sur EtherHive en utilisant le <a href="%{bridge_url}"> 1bridge app</a> 2. Cela ne fonctionne que s'ils ont aussi utilisé cette application !
-      tip_federated_timeline: La chronologie fédérée est une vue en direct du réseau EtherHive. Mais elle n'inclut que les personnes auxquelles vos voisin·es sont abonné·es, donc elle n'est pas complète.
+      subject: Bienvenue sur Hiveway
+      tip_bridge_html: Si vous venez de Twitter, vous pouvez retrouver vos amis sur Hiveway en utilisant le <a href="%{bridge_url}"> 1bridge app</a> 2. Cela ne fonctionne que s'ils ont aussi utilisé cette application !
+      tip_federated_timeline: La chronologie fédérée est une vue en direct du réseau Hiveway. Mais elle n'inclut que les personnes auxquelles vos voisin·es sont abonné·es, donc elle n'est pas complète.
       tip_following: Vous suivez les administrateurs et administratrices de votre serveur par défaut. Pour trouver d'autres personnes intéressantes, consultez les chronologies locales et fédérées.
       tip_local_timeline: La chronologie locale est une vue des personnes sur %{instance}. Ce sont vos voisines et voisins immédiats !
-      tip_mobile_webapp: Si votre navigateur mobile vous propose d'ajouter EtherHive à votre écran d'accueil, vous pouvez recevoir des notifications push. Il agit comme une application native de bien des façons !
+      tip_mobile_webapp: Si votre navigateur mobile vous propose d'ajouter Hiveway à votre écran d'accueil, vous pouvez recevoir des notifications push. Il agit comme une application native de bien des façons !
       tips: Astuces
       title: Bienvenue à bord, %{name} !
   users:

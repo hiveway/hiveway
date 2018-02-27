@@ -2,7 +2,7 @@
 gl:
   about:
     about_hashtag_html: Estas son mensaxes públicas etiquetadas con <strong>#%{hashtag}</strong>. Pode interactuar con elas si ten unha conta nalgures do fediverso.
-    about_etherhive_html: EtherHive é unha rede social que se basea en protocolos web abertos e libres, software de código aberto. É descentralizada como o correo electrónico.
+    about_etherhive_html: Hiveway é unha rede social que se basea en protocolos web abertos e libres, software de código aberto. É descentralizada como o correo electrónico.
     about_this: Sobre
     closed_registrations: O rexistro en esta instancia está pechado en este intre. Porén! Pode atopar unha instancia diferente para obter unha conta e ter acceso exactamente a misma rede desde alí.
     contact: Contacto
@@ -15,9 +15,9 @@ gl:
       <h3>Un bo lugar para regras</h3>
       <p>A descrición extendida aínda non se proporcionou.</p>
     features:
-      humane_approach_body: Aprendendo dos erros de outras redes, EtherHive intenta tomar decisións éticas de deseño para loitar contra os usos incorrectos da rede.
+      humane_approach_body: Aprendendo dos erros de outras redes, Hiveway intenta tomar decisións éticas de deseño para loitar contra os usos incorrectos da rede.
       humane_approach_title: Unha aproximación máis humana
-      not_a_product_body: EtherHive non é unha rede comercial. Sen anuncios, sen minería de datos, sen xardíns privados. Non hai autoridade centralizada.
+      not_a_product_body: Hiveway non é unha rede comercial. Sen anuncios, sen minería de datos, sen xardíns privados. Non hai autoridade centralizada.
       not_a_product_title: Vostede é unha persona, non un producto
       real_conversation_body: Con 500 caracteres a súa disposición e soporte para contido ao por menor e avisos sobre o contido, pode expresarse vostede do xeito que queira.
       real_conversation_title: Construído para conversacións reais
@@ -25,7 +25,7 @@ gl:
       within_reach_title: Sempre en contacto
     find_another_instance: Atope outra instancia
     generic_description: "%{domain} é un servidor na rede"
-    hosted_on: EtherHive aloxado en %{domain}
+    hosted_on: Hiveway aloxado en %{domain}
     learn_more: Coñeza máis
     other_instances: Listado de instancias
     source_code: Código fonte
@@ -33,7 +33,7 @@ gl:
     status_count_before: Quen escribeu
     user_count_after: usuarias
     user_count_before: Inicio de
-    what_is_etherhive: Qué é EtherHive?
+    what_is_etherhive: Qué é Hiveway?
   accounts:
     follow: Seguir
     followers: Seguidoras
@@ -411,7 +411,7 @@ gl:
     '500':
       content: Sentímolo, pero algo do noso lado falloou.
       title: Esta páxina non é correcta
-    noscript_html: Para utilizar a aplicación web de EtherHive debe habilitar JavaScript.
+    noscript_html: Para utilizar a aplicación web de Hiveway debe habilitar JavaScript.
   exports:
     blocks: A bloquear
     csv: CSV
@@ -598,7 +598,7 @@ gl:
     title: Sesións
   settings:
     authorized_apps: Apps autorizados
-    back: Voltar a EtherHive
+    back: Voltar a Hiveway
     delete: Eliminación da conta
     development: Desenvolvemento
     edit_profile: Editar perfil
@@ -704,7 +704,7 @@ gl:
       <p>Adaptado do orixinal <a href="https://github.com/discourse/discourse">Discourse privacy policy</a>.</p>
     title: "%{instance} Termos do Servizo e Política de Intimidade"
   themes:
-    default: EtherHive
+    default: Hiveway
   time:
     formats:
       default: "%d %b, %Y, %H:%M"
@@ -735,12 +735,12 @@ gl:
       full_handle_hint: Esto é o que lle dirá aos seus amigos para que poidan seguila ou enviarlle mensaxes desde outra instancia.
       review_preferences_action: Cambiar preferencias
       review_preferences_step: Lembre establecer as preferencias, tales como qué correos-e lle querería recibir, ou o nivel de intimidade por omisión para as súas mensaxes. Se non lle molestan as imaxes con movemento, pode escoller que os GIF se reproduzan automáticamente.
-      subject: Benvida a EtherHive
-      tip_bridge_html: Si chega desde a Twitter, pode atopar aos seus amigos en EtherHive utilizando o <a href="%{bridge_url}">aplicativo ponte</a>. Só funciona si eles tamén utilizan o aplicativo ponte!
-      tip_federated_timeline: A liña temporal federada é unha visión ampla da rede EtherHive. Pero so inclúe xente a que segue xente que vostede segue, así que non é completa.
+      subject: Benvida a Hiveway
+      tip_bridge_html: Si chega desde a Twitter, pode atopar aos seus amigos en Hiveway utilizando o <a href="%{bridge_url}">aplicativo ponte</a>. Só funciona si eles tamén utilizan o aplicativo ponte!
+      tip_federated_timeline: A liña temporal federada é unha visión ampla da rede Hiveway. Pero so inclúe xente a que segue xente que vostede segue, así que non é completa.
       tip_following: Por omisión vostede segue ao Admin do seu servidor. Para atopar máis xente interesante, mire nas liñas temporais local e federada.
       tip_local_timeline: A liña temporal local é unha ollada xeral sobre a xente en %{instance}. Son as súas veciñas máis próximas!
-      tip_mobile_webapp: Si o navegador móbil lle ofrece engadir EtherHive a pantalla de inicio, pode recibir notificacións push. En moitos aspectos comportarase como un aplicativo nativo!
+      tip_mobile_webapp: Si o navegador móbil lle ofrece engadir Hiveway a pantalla de inicio, pode recibir notificacións push. En moitos aspectos comportarase como un aplicativo nativo!
       tips: Consellos
       title: Benvida, %{name}!
   users:

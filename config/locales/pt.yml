@@ -1,8 +1,8 @@
 ---
 pt:
   about:
-    about_hashtag_html: Estes são posts públicos marcados com <strong>#%{hashtag}</strong>. Podes interagir com eles se tiveres uma conta EtherHive.
-    about_etherhive_html: EtherHive é uma rede social baseada em protocolos abertos da web e software livre e gratuito. É descentralizado como e-mail.
+    about_hashtag_html: Estes são posts públicos marcados com <strong>#%{hashtag}</strong>. Podes interagir com eles se tiveres uma conta Hiveway.
+    about_etherhive_html: Hiveway é uma rede social baseada em protocolos abertos da web e software livre e gratuito. É descentralizado como e-mail.
     about_this: Sobre esta instância
     closed_registrations: Novos registos estão fechados nesta instância. No entanto! Podes procurar uma instância diferente na qual criar uma conta e obter acesso à mesma rede desde lá.
     contact: Contacto
@@ -15,9 +15,9 @@ pt:
       <h3>Um bom lugar para regras</h3>
       <p>A descrição estendida ainda não foi configurada.</p>
     features:
-      humane_approach_body: Aprendendo com erros de outras redes sociais, EtherHive tem como objetivo fazer decisões éticas de design para combater o utilização errada de redes sociais.
+      humane_approach_body: Aprendendo com erros de outras redes sociais, Hiveway tem como objetivo fazer decisões éticas de design para combater o utilização errada de redes sociais.
       humane_approach_title: Uma abordagem mais humana
-      not_a_product_body: EtherHive não é uma rede comercial. Sem publicidade, sem recolha de dados ou portas fechadas. Não existe uma autoridade central.
+      not_a_product_body: Hiveway não é uma rede comercial. Sem publicidade, sem recolha de dados ou portas fechadas. Não existe uma autoridade central.
       not_a_product_title: Tu és uma pessoa, não um produto
       real_conversation_body: Com 500 caracteres à sua disposição e suporte para conteúdo granular e avisos de conteúdo, podes te expressar da forma que desejares.
       real_conversation_title: Feito para conversas reais
@@ -25,7 +25,7 @@ pt:
       within_reach_title: Sempre ao teu alcance
     find_another_instance: Encontra outra instância
     generic_description: "%{domain} é um servidor na rede"
-    hosted_on: EtherHive em %{domain}
+    hosted_on: Hiveway em %{domain}
     learn_more: Saber mais
     other_instances: Outras instâncias
     source_code: Código fonte
@@ -33,7 +33,7 @@ pt:
     status_count_before: Que fizeram
     user_count_after: utilizadores
     user_count_before: Casa para
-    what_is_etherhive: O que é o EtherHive?
+    what_is_etherhive: O que é o Hiveway?
   accounts:
     follow: Seguir
     followers: Seguidores
@@ -413,7 +413,7 @@ pt:
     '500':
       content: Desculpe, mas algo correu mal.
       title: Esta página não está correta
-    noscript_html: Para usar o aplicativo web do EtherHive, por favor ativa o JavaScript.
+    noscript_html: Para usar o aplicativo web do Hiveway, por favor ativa o JavaScript.
   exports:
     blocks: Bloqueaste
     csv: CSV
@@ -579,7 +579,7 @@ pt:
       weibo: Weibo
     current_session: Sessão atual
     description: "%{browser} em %{platform}"
-    explanation: Estes são os navegadores que estão conectados com a tua conta do EtherHive.
+    explanation: Estes são os navegadores que estão conectados com a tua conta do Hiveway.
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -599,7 +599,7 @@ pt:
     title: Sessões
   settings:
     authorized_apps: Aplicativos autorizados
-    back: Voltar ao EtherHive
+    back: Voltar ao Hiveway
     delete: Eliminação da conta
     development: Desenvolvimento
     edit_profile: Editar perfil
@@ -705,7 +705,7 @@ pt:
       <p>Originalmente adaptado da <a href="https://github.com/discourse/discourse">política de privacidade do Discourse</a>.</p>
     title: "%{instance} Termos de Serviço e Política de Privacidade"
   themes:
-    default: EtherHive
+    default: Hiveway
   time:
     formats:
       default: "%b %d, %Y, %H:%M"

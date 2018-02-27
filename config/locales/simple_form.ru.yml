@@ -18,9 +18,9 @@ ru:
           one: Остался <span class="name-counter">1</span> символ
           other: Осталось <span class="name-counter">%{count}</span> символов
         setting_noindex: Относится к Вашему публичному профилю и страницам статусов
-        setting_theme: Влияет на внешний вид EtherHive при выполненном входе в аккаунт.
+        setting_theme: Влияет на внешний вид Hiveway при выполненном входе в аккаунт.
       imports:
-        data: Файл CSV, экспортированный с другого узла EtherHive
+        data: Файл CSV, экспортированный с другого узла Hiveway
       sessions:
         otp: Введите код двухфакторной аутентификации или используйте один из Ваших кодов восстановления.
       user:

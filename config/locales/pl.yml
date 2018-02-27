@@ -2,7 +2,7 @@
 pl:
   about:
     about_hashtag_html: Znajdują się tu publiczne wpisy oznaczone hashtagiem <strong>#%{hashtag}</strong>. Możesz dołączyć do dyskusji, jeżeli posiadasz konto gdziekolwiek w Fediwersum.
-    about_etherhive_html: EtherHive jest wolną i otwartą siecią społecznościową, zdecentralizowaną alternatywą dla zamkniętych, komercyjnych platform.
+    about_etherhive_html: Hiveway jest wolną i otwartą siecią społecznościową, zdecentralizowaną alternatywą dla zamkniętych, komercyjnych platform.
     about_this: O tej instancji
     closed_registrations: Rejestracja na tej instancji jest obecnie zamknięta. Możesz jednak zarejestrować się na innej instancji, uzyskując dostęp do tej samej sieci.
     contact: Kontakt
@@ -15,9 +15,9 @@ pl:
       <h3>Dobre miejsce na zasady użytkowania</h3>
       <p>Nie ustawiono jeszcze szczegółowego opisu</p>
     features:
-      humane_approach_body: Nauczeni na błędach innych sieci społecznościowych, zaprojektowaliśmy EtherHive tak, aby uniknąć częstych nadużyć.
+      humane_approach_body: Nauczeni na błędach innych sieci społecznościowych, zaprojektowaliśmy Hiveway tak, aby uniknąć częstych nadużyć.
       humane_approach_title: Bardziej ludzkie podejście
-      not_a_product_body: EtherHive nie jest komercyjną siecią. Nie doświadczysz tu reklam, zbierania danych, ani centralnego ośrodka, tak jak w przypadku wielu rozwiązań.
+      not_a_product_body: Hiveway nie jest komercyjną siecią. Nie doświadczysz tu reklam, zbierania danych, ani centralnego ośrodka, tak jak w przypadku wielu rozwiązań.
       not_a_product_title: Jesteś człowiekiem, nie produktem
       real_conversation_body: Mając do dyspozycji 500 znaków na wpis, rozdrobnienie zawartości i ostrzeżenia o multimediach, możesz wyrażać siebie na wszystkie możliwe sposoby.
       real_conversation_title: Zaprojektowany do prawdziwych rozmów
@@ -25,7 +25,7 @@ pl:
       within_reach_title: Zawsze w Twoim zasięgu
     find_another_instance: Znajdź inną instancję
     generic_description: "%{domain} jest jednym z serwerów sieci"
-    hosted_on: EtherHive uruchomiony na %{domain}
+    hosted_on: Hiveway uruchomiony na %{domain}
     learn_more: Dowiedz się więcej
     other_instances: Lista instancji
     source_code: Kod źródłowy
@@ -33,7 +33,7 @@ pl:
     status_count_before: Są autorami
     user_count_after: użytkowników
     user_count_before: Z serwera korzysta
-    what_is_etherhive: Czym jest EtherHive?
+    what_is_etherhive: Czym jest Hiveway?
   accounts:
     follow: Śledź
     followers: Śledzących
@@ -412,7 +412,7 @@ pl:
     '500':
       content: Przepraszamy, coś poszło nie tak…
       title: Ta strona jest nieprawidłowa
-    noscript_html: Aby korzystać z aplikacji EtherHive, włącz JavaScript.
+    noscript_html: Aby korzystać z aplikacji Hiveway, włącz JavaScript.
   exports:
     blocks: Zablokowani
     csv: CSV
@@ -605,7 +605,7 @@ pl:
     title: Sesje
   settings:
     authorized_apps: Uwierzytelnione aplikacje
-    back: Powrót do EtherHive
+    back: Powrót do Hiveway
     delete: Usuń konto
     development: Tworzenie aplikacji
     edit_profile: Edytuj profil
@@ -711,7 +711,7 @@ pl:
       <p>Tekst bazuje na <a href="https://github.com/discourse/discourse">polityce prywatności Discourse</a>.</p>
     title: Zasady korzystania i polityka prywatności %{instance}
   themes:
-    default: EtherHive
+    default: Hiveway
   time:
     formats:
       default: "%b %d, %Y, %H:%M"
@@ -742,12 +742,12 @@ pl:
       full_handle_hint: Ten adres możesz podać znajomym, aby mogli skontaktować się z Tobą lub zacząć śledzić z innej instancji.
       review_preferences_action: Zmień ustawienia
       review_preferences_step: Upewnij się, że zmieniłeś ustawienia, takie jak maile, które chciałbyś otrzymywać lub domyślne opcje prywatności. Jeżeli nie masz choroby lokomocyjnej, możesz włączyć automatyczne odtwarzanie animacji GIF.
-      subject: Witaj w EtherHiveie
-      tip_bridge_html: Jeżeli przybywasz z Twittera, możesz znaleźć znajomych na EtherHiveie używając <a href="%{bridge_url}">aplikacji mostku</a>. Działa to tylko, jeżeli oni również z niej korzystali!
-      tip_federated_timeline: Oś czasu federacji przedstawia całą sieć EtherHivea. Wyświetla tylko wpisy osób, które śledzą użytkownicy Twojej instancji, więc nie jest kompletna.
+      subject: Witaj w Hivewayie
+      tip_bridge_html: Jeżeli przybywasz z Twittera, możesz znaleźć znajomych na Hivewayie używając <a href="%{bridge_url}">aplikacji mostku</a>. Działa to tylko, jeżeli oni również z niej korzystali!
+      tip_federated_timeline: Oś czasu federacji przedstawia całą sieć Hivewaya. Wyświetla tylko wpisy osób, które śledzą użytkownicy Twojej instancji, więc nie jest kompletna.
       tip_following: Domyślnie śledzisz administratora/ów swojej instancji. Aby znaleźć więcej ciekawych ludzi, zajrzyj na lokalną i federalną oś czasu.
       tip_local_timeline: Lokalna oś czasu przedstawia osoby z %{instance}. To Twoi najbliżsi sąsiedzi!
-      tip_mobile_webapp: Jeżeli Twoja przeglądarka pozwala na dodanie EtherHivea na ekran główny, będziesz otrzymywać natychmiastowe powiadomienia. Działa to prawie jak natywna aplikacja!
+      tip_mobile_webapp: Jeżeli Twoja przeglądarka pozwala na dodanie Hivewaya na ekran główny, będziesz otrzymywać natychmiastowe powiadomienia. Działa to prawie jak natywna aplikacja!
       tips: Wskazówki
       title: Witaj na pokładzie, %{name}!
   users:

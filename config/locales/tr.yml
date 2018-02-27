@@ -1,7 +1,7 @@
 ---
 tr:
   about:
-    about_etherhive_html: EtherHive <em>ücretsiz ve açık kaynaklı</em> bir sosyal ağdır. <em>Merkezileştirilmemiş</em> yapısı sayesinde diğer ticari sosyal platformların aksine iletişimininizin tek bir firmada tutulmasının/yönetilmesinin önüne geçer. Güvendiğiniz bir sunucuyu seçerek oradaki kişilerle etkileşimde bulunabilirsiniz. Herkes kendi EtherHive sunucusunu kurabilir ve sorunsuz bir şekilde EtherHive <em>sosyal ağına</em> dahil edebilir.
+    about_etherhive_html: Hiveway <em>ücretsiz ve açık kaynaklı</em> bir sosyal ağdır. <em>Merkezileştirilmemiş</em> yapısı sayesinde diğer ticari sosyal platformların aksine iletişimininizin tek bir firmada tutulmasının/yönetilmesinin önüne geçer. Güvendiğiniz bir sunucuyu seçerek oradaki kişilerle etkileşimde bulunabilirsiniz. Herkes kendi Hiveway sunucusunu kurabilir ve sorunsuz bir şekilde Hiveway <em>sosyal ağına</em> dahil edebilir.
     about_this: Bu sunucu hakkında
     closed_registrations: Bu sunucu şu anda yeni kayıt almamaktadır.
     contact: İletişim
@@ -223,7 +223,7 @@ tr:
       following: Takip edilenler listesi
       muting: Susturulanlar listesi
     upload: Yükle
-  landing_strip_html: "<strong>%{name}</strong>, %{link_to_root_path} sunucusundaki bir kullanıcıdır. Onu takip edebilir, veya EtherHive ağındaki bir hesabınızı kullanarak etkileşime geçebilirsiniz."
+  landing_strip_html: "<strong>%{name}</strong>, %{link_to_root_path} sunucusundaki bir kullanıcıdır. Onu takip edebilir, veya Hiveway ağındaki bir hesabınızı kullanarak etkileşime geçebilirsiniz."
   landing_strip_signup_html: Eğer hesabınız yoksa <a href="%{sign_up_path}">buradan kaydolabilirsiniz</a>.
   media_attachments:
     validations:
@@ -276,7 +276,7 @@ tr:
     prompt: Bu kullanıcıyı takip etmek istediğinize emin misiniz?
   settings:
     authorized_apps: Yetkilendirilen uygulamalar
-    back: EtherHive'a geri dön
+    back: Hiveway'a geri dön
     edit_profile: Profili düzenle
     export: Dışa aktar
     followers: İzin verilmiş takipçiler

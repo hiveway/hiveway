@@ -17,13 +17,13 @@ hu:
       unconfirmed: A folytatás előtt meg kell erősítened az e-mail címed.
     mailer:
       confirmation_instructions:
-        subject: 'EtherHive: Megerősítési lépések'
+        subject: 'Hiveway: Megerősítési lépések'
       password_change:
-        subject: 'EtherHive: Jelszó megváltoztatva'
+        subject: 'Hiveway: Jelszó megváltoztatva'
       reset_password_instructions:
-        subject: 'EtherHive: Jelszó visszaállítási lépések'
+        subject: 'Hiveway: Jelszó visszaállítási lépések'
       unlock_instructions:
-        subject: 'EtherHive: Feloldási lépések'
+        subject: 'Hiveway: Feloldási lépések'
     omniauth_callbacks:
       failure: "%{kind} nem hitelesíthető, mert %{reason}."
       success: Sikeres hitelesítés %{kind} fiókról.

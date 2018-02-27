@@ -1,8 +1,8 @@
 ---
 nl:
   about:
-    about_hashtag_html: Dit zijn openbare posts die getagged zijn met <strong>#%{hashtag}</strong>. Je kunt er op reageren of iets anders mee doen als je op EtherHive (of ergens anders in de fediverse) een account hebt.
-    about_etherhive_html: EtherHive is een sociaal netwerk dat gebruikt maakt van open webprotocollen en vrije software. Het is net zoals e-mail gedecentraliseerd.
+    about_hashtag_html: Dit zijn openbare posts die getagged zijn met <strong>#%{hashtag}</strong>. Je kunt er op reageren of iets anders mee doen als je op Hiveway (of ergens anders in de fediverse) een account hebt.
+    about_etherhive_html: Hiveway is een sociaal netwerk dat gebruikt maakt van open webprotocollen en vrije software. Het is net zoals e-mail gedecentraliseerd.
     about_this: Over deze server
     closed_registrations: Registreren op deze server is momenteel uitgeschakeld.
     contact: Contact
@@ -15,17 +15,17 @@ nl:
       <h3>Een goede plek voor richtlijnen</h3>
       <p>De uitgebreide omschrijving is nog niet ingevuld.</p>
     features:
-      humane_approach_body: Na van de fouten van andere netwerken te hebben geleerd, tracht EtherHive ethische ontwerpkeuzes te maken om misbruik van social media te voorkomen.
+      humane_approach_body: Na van de fouten van andere netwerken te hebben geleerd, tracht Hiveway ethische ontwerpkeuzes te maken om misbruik van social media te voorkomen.
       humane_approach_title: Een meer menselijke aanpak
-      not_a_product_body: EtherHive is geen commercieel netwerk. Dus geen advertenties, geen datamining en geen besloten systemen. Er is geen centrale organisatie die alles bepaald.
+      not_a_product_body: Hiveway is geen commercieel netwerk. Dus geen advertenties, geen datamining en geen besloten systemen. Er is geen centrale organisatie die alles bepaald.
       not_a_product_title: Jij bent een persoon, geen product
       real_conversation_body: Met 500 karakters tot jouw beschikking, en ondersteuning voor tekst- en media-waarschuwingen, kan je jezelf uiten zoals jij dat wil.
       real_conversation_title: Voor echte gesprekken gemaakt
       within_reach_body: Meerdere apps voor iOS, Android en andere platformen, met dank aan het ontwikkelaarsvriendelijke API-systeem, zorgen ervoor dat je overal op de hoogte blijft.
       within_reach_title: Altijd binnen bereik
     find_another_instance: Vind een andere server
-    generic_description: "%{domain} is een server in het EtherHive netwerk"
-    hosted_on: EtherHive op %{domain}
+    generic_description: "%{domain} is een server in het Hiveway netwerk"
+    hosted_on: Hiveway op %{domain}
     learn_more: Meer leren
     other_instances: Andere servers
     source_code: Broncode
@@ -33,7 +33,7 @@ nl:
     status_count_before: Zij schreven
     user_count_after: gebruikers
     user_count_before: Thuisbasis van
-    what_is_etherhive: Wat is EtherHive?
+    what_is_etherhive: Wat is Hiveway?
   accounts:
     follow: Volgen
     followers: Volgers
@@ -295,17 +295,17 @@ nl:
         title: Medewerkersbadge tonen
       site_description:
         desc_html: Dit wordt als een alinea op de voorpagina getoond en gebruikt als meta-tag in de paginabron.<br/>Je kan HTML gebruiken, zoals <code>&lt;a&gt;</code> en <code>&lt;em&gt;</code>.
-        title: Omschrijving EtherHiveserver
+        title: Omschrijving Hivewayserver
       site_description_extended:
         desc_html: Wordt op de uitgebreide informatiepagina weergegeven<br>Je kan ook hier HTML gebruiken
-        title: Uitgebreide omschrijving EtherHiveserver
+        title: Uitgebreide omschrijving Hivewayserver
       site_terms:
         desc_html: Je kan hier jouw eigen privacybeleid, gebruikersvoorwaarden en ander juridisch jargon kwijt. Je kan HTML gebruiken
         title: Aangepaste gebruikersvoorwaarden
-      site_title: Naam EtherHiveserver
+      site_title: Naam Hivewayserver
       thumbnail:
         desc_html: Gebruikt als voorvertoning voor OpenGraph en de API. 1200x630px aanbevolen
-        title: Thumbnail EtherHiveserver
+        title: Thumbnail Hivewayserver
       timeline_preview:
         desc_html: Toon de openbare tijdlijn op de startpagina
         title: Voorbeeld tijdlijn
@@ -411,7 +411,7 @@ nl:
     '500':
       content: Het spijt ons, er is aan onze kant iets fout gegaan.
       title: Er is iets mis
-    noscript_html: Schakel JavaScript in om de webapp van EtherHive te kunnen gebruiken.
+    noscript_html: Schakel JavaScript in om de webapp van Hiveway te kunnen gebruiken.
   exports:
     blocks: Jij blokkeert
     csv: CSV
@@ -420,7 +420,7 @@ nl:
     storage: Mediaopslag
   followers:
     domain: Domein
-    explanation_html: Wanneer je de privacy van jouw posts wilt garanderen, moet je goed weten wie jouw volgers zijn. <strong>Posts die alleen aan jouw volgers zijn gericht, worden aan de EtherHiveservers van jouw volgers afgeleverd.</strong> Daarom wil je ze misschien controleren en desnoods volgers verwijderen die zich op een EtherHiveserver bevinden die jij niet vertrouwd. Bijvoorbeeld omdat de beheerder(s) of de software van zo'n server jouw privacy niet respecteert.
+    explanation_html: Wanneer je de privacy van jouw posts wilt garanderen, moet je goed weten wie jouw volgers zijn. <strong>Posts die alleen aan jouw volgers zijn gericht, worden aan de Hivewayservers van jouw volgers afgeleverd.</strong> Daarom wil je ze misschien controleren en desnoods volgers verwijderen die zich op een Hivewayserver bevinden die jij niet vertrouwd. Bijvoorbeeld omdat de beheerder(s) of de software van zo'n server jouw privacy niet respecteert.
     followers_count: Aantal volgers
     lock_link: Maak jouw account besloten
     purge: Volgers verwijderen
@@ -461,12 +461,12 @@ nl:
       one: 1 keer
       other: "%{count} keer"
     max_uses_prompt: Onbeperkt
-    prompt: Genereer en deel speciale links om mensen toegang tot deze EtherHiveserver te geven
+    prompt: Genereer en deel speciale links om mensen toegang tot deze Hivewayserver te geven
     table:
       expires_at: Verloopt op
       uses: Aantal keer te gebruiken
     title: Mensen uitnodigen
-  landing_strip_html: "<strong>%{name}</strong> is een gebruiker op %{link_to_root_path}. Je kunt deze volgen en ermee communiceren als je op EtherHive (of ergens anders in de fediverse) een account hebt."
+  landing_strip_html: "<strong>%{name}</strong> is een gebruiker op %{link_to_root_path}. Je kunt deze volgen en ermee communiceren als je op Hiveway (of ergens anders in de fediverse) een account hebt."
   landing_strip_signup_html: Als je dat niet hebt, kun je je <a href="%{sign_up_path}">hier registreren</a>.
   lists:
     errors:
@@ -578,7 +578,7 @@ nl:
       weibo: Weibo
     current_session: Huidige sessie
     description: "%{browser} op %{platform}"
-    explanation: Dit zijn de webbrowsers die momenteel met jouw EtherHiveaccount zijn ingelogd.
+    explanation: Dit zijn de webbrowsers die momenteel met jouw Hivewayaccount zijn ingelogd.
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -598,7 +598,7 @@ nl:
     title: Sessies
   settings:
     authorized_apps: Geautoriseerde apps
-    back: Terug naar EtherHive
+    back: Terug naar Hiveway
     delete: Account verwijderen
     development: Ontwikkelaars
     edit_profile: Profiel bewerken
@@ -704,7 +704,7 @@ nl:
       <p>Originally adapted from the <a href="https://github.com/discourse/discourse">Discourse privacy policy</a>.</p>
     title: "%{instance} Terms of Service and Privacy Policy"
   themes:
-    default: EtherHive
+    default: Hiveway
   time:
     formats:
       default: "%d %B %Y om %H:%M"
@@ -731,16 +731,16 @@ nl:
       explanation: Hier zijn enkele tips om je op weg te helpen
       final_action: Begin berichten te plaatsen
       final_step: 'Begin berichten te plaatsen! Zelfs zonder volgers kunnen jouw openbare berichten door anderen gezien worden, bijvoorbeeld op de lokale tijdlijn en via hashtags. Je wilt jezelf misschien introduceren met de hashtag #introductions.'
-      full_handle: Jouw volledige EtherHiveadres
-      full_handle_hint: Dit geef je aan jouw vrienden, zodat ze jouw berichten kunnen sturen of (vanaf een andere EtherHiveserver) kunnen volgen.
+      full_handle: Jouw volledige Hivewayadres
+      full_handle_hint: Dit geef je aan jouw vrienden, zodat ze jouw berichten kunnen sturen of (vanaf een andere Hivewayserver) kunnen volgen.
       review_preferences_action: Instellingen veranderen
       review_preferences_step: Zorg dat je jouw instellingen naloopt, zoals welke e-mails je wilt ontvangen of voor wie jouw berichten standaard zichtbaar moeten zijn. Wanneer je geen last hebt van bewegende beelden, kun je het afspelen van geanimeerde GIF's inschakelen.
-      subject: Welkom op EtherHive
-      tip_bridge_html: Wanneer je hiervoor op Twitter zat, kun je jouw vrienden op EtherHive vinden door gebruik te maken van de <a href="%{bridge_url}">bridge-app</a>. Het werkt echter alleen wanneer zij ook deze bridge-app hebben gebruikt!
-      tip_federated_timeline: De globale tijdlijn toont berichten in het EtherHivenetwerk. Het bevat echter alleen berichten van mensen waar jouw buren mee zijn verbonden, dus het is niet compleet.
-      tip_following: Je volgt standaard de beheerder(s) van jouw EtherHiveserver. Bekijk de lokale en de globale tijdlijnen om meer interessante mensen te vinden.
+      subject: Welkom op Hiveway
+      tip_bridge_html: Wanneer je hiervoor op Twitter zat, kun je jouw vrienden op Hiveway vinden door gebruik te maken van de <a href="%{bridge_url}">bridge-app</a>. Het werkt echter alleen wanneer zij ook deze bridge-app hebben gebruikt!
+      tip_federated_timeline: De globale tijdlijn toont berichten in het Hivewaynetwerk. Het bevat echter alleen berichten van mensen waar jouw buren mee zijn verbonden, dus het is niet compleet.
+      tip_following: Je volgt standaard de beheerder(s) van jouw Hivewayserver. Bekijk de lokale en de globale tijdlijnen om meer interessante mensen te vinden.
       tip_local_timeline: De lokale tijdlijn toont berichten van mensen op %{instance}. Dit zijn jouw naaste buren!
-      tip_mobile_webapp: Wanneer jouw mobiele webbrowser EtherHive aan jouw startscherm wilt toevoegen, kun je pushmeldingen ontvangen. Het gedraagt zich op meerdere manieren als een native app!
+      tip_mobile_webapp: Wanneer jouw mobiele webbrowser Hiveway aan jouw startscherm wilt toevoegen, kun je pushmeldingen ontvangen. Het gedraagt zich op meerdere manieren als een native app!
       tips: Tips
       title: Welkom aan boord %{name}!
   users:

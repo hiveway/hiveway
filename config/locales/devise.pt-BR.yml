@@ -20,31 +20,31 @@ pt-BR:
         action: Verificar endereço de e-mail
         explanation: Você criou uma conta em %{host} com esse endereço de e-mail. Você está a um clique de ativá-la. Se não foi você, por favor ignore esse e-mail.
         extra_html: Por favor confira também <a href="%{terms_path}">as regras da instância</a> e <a href="%{policy_path}">nossos termos de serviço</a>.
-        subject: 'EtherHive: Instruções de confirmação'
+        subject: 'Hiveway: Instruções de confirmação'
         title: Verifique o endereço de e-mail
       email_changed:
         explanation: 'O e-mail associado à sua conta será mudado para:'
         extra: Se você não mudou seu e-mail é possível que alguém tenha conseguido acesso à sua conta. Por favor mude sua senha imediatamente ou entre em contato com um administrador da sua instância se você ficou sem acesso à sua conta.
-        subject: 'EtherHive: Email alterado'
+        subject: 'Hiveway: Email alterado'
         title: Novo endereço de e-mail
       password_change:
         explanation: A senha da sua conta foi mudada.
         extra: Se você não mudou a sua senha, é possível que alguém tenha conseguido acesso à sua conta. Por favor mude sua senha imediatamente ou entre em contato com um administrador da sua instância se você ficou sem acesso à sua conta.
-        subject: 'EtherHive: Senha modificada'
+        subject: 'Hiveway: Senha modificada'
         title: Senha alterada
       reconfirmation_instructions:
         explanation: Confirme o seu novo endereço para mudar seu e-mail.
-        extra: Se essa mudança não foi iniciada por você, por favor ignore esse e-mail. O endereço de e-mail para essa conta do EtherHive não irá mudar até que você acesse o link acima.
-        subject: 'EtherHive: Confirmar emai para %{instance}'
+        extra: Se essa mudança não foi iniciada por você, por favor ignore esse e-mail. O endereço de e-mail para essa conta do Hiveway não irá mudar até que você acesse o link acima.
+        subject: 'Hiveway: Confirmar emai para %{instance}'
         title: Verificar o endereço de e-mail
       reset_password_instructions:
         action: Mudar a senha
         explanation: Você pediu uma nova senha para sua conta.
         extra: Se você não fez esse pedido, por favor ignore esse e-mail. Sua senha não irá mudar até que você acesse o link acima e crie uma nova.
-        subject: 'EtherHive: Instruções para mudança de senha'
+        subject: 'Hiveway: Instruções para mudança de senha'
         title: Redefinir a senha
       unlock_instructions:
-        subject: 'EtherHive: Instruções de desbloqueio'
+        subject: 'Hiveway: Instruções de desbloqueio'
     omniauth_callbacks:
       failure: Não foi possível autenticá-lo como %{kind} porque "%{reason}".
       success: Autenticado com sucesso como %{kind}.

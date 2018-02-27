@@ -71,7 +71,7 @@ class Request
   end
 
   def user_agent
-    @user_agent ||= "#{HTTP::Request::USER_AGENT} (EtherHive/#{EtherHive::Version}; +#{root_url})"
+    @user_agent ||= "#{HTTP::Request::USER_AGENT} (Hiveway/#{EtherHive::Version}; +#{root_url})"
   end
 
   def key_id

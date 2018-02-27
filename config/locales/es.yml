@@ -2,7 +2,7 @@
 es:
   about:
     about_hashtag_html: Estos son posts públicos etiquetados con <strong>#%{hashtag}</strong>. Puedes interactuar con ellos si tienes una cuenta en cualquier parte del fediverso.
-    about_etherhive_html: EtherHive es un servidor de red social <em>libre y de código abierto</em>. Una alternativa <em>descentralizada</em> a plataformas comerciales, que evita el riesgo de que una única compañía monopolice tu comunicación. Cualquiera puede ejecutar EtherHive y participar sin problemas en la <em>red social</em>.
+    about_etherhive_html: Hiveway es un servidor de red social <em>libre y de código abierto</em>. Una alternativa <em>descentralizada</em> a plataformas comerciales, que evita el riesgo de que una única compañía monopolice tu comunicación. Cualquiera puede ejecutar Hiveway y participar sin problemas en la <em>red social</em>.
     about_this: Acerca de esta instancia
     closed_registrations: Los registros están actualmente cerrados en esta instancia.
     contact: Contacto
@@ -15,9 +15,9 @@ es:
       <h3>Un buen lugar para las reglas</h3>
       <p>La descripción extendida no se ha colocado aún.</p>
     features:
-      humane_approach_body: Aprendiendo de los errores de otras redes, EtherHive apunta a las decisiones de diseño ético para combatir el desuso de las redes sociales.
+      humane_approach_body: Aprendiendo de los errores de otras redes, Hiveway apunta a las decisiones de diseño ético para combatir el desuso de las redes sociales.
       humane_approach_title: Una misión más humana
-      not_a_product_body: EtherHive no es una red comercial. Nada de publicidad, nada de minado de datos, nada de jardines murados. No hay ninguna autoridad central.
+      not_a_product_body: Hiveway no es una red comercial. Nada de publicidad, nada de minado de datos, nada de jardines murados. No hay ninguna autoridad central.
       not_a_product_title: Eres una persona, no un producto
       real_conversation_body: Con 500 caracteres a tu disposición y soporte para contenido granular y advertencias de contenido, puedes expresarte como quieras.
       real_conversation_title: Hecho para verdaderas conversaciones
@@ -25,7 +25,7 @@ es:
       within_reach_title: Siempre al alcance
     find_another_instance: Busca otra instancia
     generic_description: "%{domain} es un servidor en la red"
-    hosted_on: EtherHive hosteado en %{domain}
+    hosted_on: Hiveway hosteado en %{domain}
     learn_more: Aprende más
     other_instances: Otras instancias
     source_code: Código fuente
@@ -33,7 +33,7 @@ es:
     status_count_before: Qué han escrito
     user_count_after: usuarios registrados
     user_count_before: Tenemos
-    what_is_etherhive: "¿Qué es EtherHive?"
+    what_is_etherhive: "¿Qué es Hiveway?"
   accounts:
     follow: Seguir
     followers: Seguidores
@@ -411,7 +411,7 @@ es:
     '500':
       content: Lo sentimos, algo ha funcionado mal por nuestra parte.
       title: Esta página no es correcta
-    noscript_html: Para usar la aplicación web de EtherHive, por favor activa Javascript.
+    noscript_html: Para usar la aplicación web de Hiveway, por favor activa Javascript.
   exports:
     blocks: Personas que has bloqueado
     csv: CSV
@@ -578,7 +578,7 @@ es:
       weibo: Weibo
     current_session: Sesión actual
     description: "%{browser} en %{platform}"
-    explanation: Estos son los navegadores web conectados actualmente en tu cuenta de EtherHive.
+    explanation: Estos son los navegadores web conectados actualmente en tu cuenta de Hiveway.
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -704,7 +704,7 @@ es:
       <p>Adaptado originalmente del <a href="https://github.com/discourse/discourse">discurso de las políticas de privacidad</a>.</p>
     title: Términos del Servicio y Políticas de Privacidad de %{instance}
   themes:
-    default: EtherHive
+    default: Hiveway
   time:
     formats:
       default: "%d de %b del %Y, %H:%M"
@@ -734,11 +734,11 @@ es:
       full_handle_hint: Esto es lo que le dirías a tus amigos para que ellos puedan enviarte mensajes o seguirte desde otra instancia.
       review_preferences_action: Cambiar preferencias
       review_preferences_step: Asegurate de poner tus preferencias, como que correos te gustaría recibir, o que nivel de privacidad te gustaría que tus publicaciones tengan por defecto. Si no tienes mareos, podrías elegir habilitar la reproducción automática de "GIFs".
-      subject: Bienvenido a EtherHive
-      tip_bridge_html: Si esta viniendo desde Twitter, puedes encontrar a tus amigos en EtherHive usando la <a href="%{bridge_url}">aplicación puente</a>. Aunque solo funciona si ellos también usaron la aplicación puente!
+      subject: Bienvenido a Hiveway
+      tip_bridge_html: Si esta viniendo desde Twitter, puedes encontrar a tus amigos en Hiveway usando la <a href="%{bridge_url}">aplicación puente</a>. Aunque solo funciona si ellos también usaron la aplicación puente!
       tip_following: Sigues a tus administradores de servidor por defecto. Para encontrar más gente interesante, revisa las lineas de tiempo local y federada.
       tip_local_timeline: La linea de tiempo local is una vista de la gente en %{instance}. Estos son tus vecinos inmediatos!
-      tip_mobile_webapp: Si el navegador de tu dispositivo móvil ofrece agregar EtherHive a tu página de inicio, puedes recibir notificaciones. Actúa como una aplicación nativa en muchas formas!
+      tip_mobile_webapp: Si el navegador de tu dispositivo móvil ofrece agregar Hiveway a tu página de inicio, puedes recibir notificaciones. Actúa como una aplicación nativa en muchas formas!
       tips: Tips
       title: Bienvenido a bordo, %{name}!
   users:

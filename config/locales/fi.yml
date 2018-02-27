@@ -1,7 +1,7 @@
 ---
 fi:
   about:
-    about_etherhive_html: EtherHive on <em>vapaa, avoimeen lähdekoodiin perustuva</em> sosiaalinen verkosto. <em>Hajautettu</em> vaihtoehto kaupallisille alustoille, se välttää eiskit yhden yrityksen monopolisoinnin sinun viestinnässäsi. Valitse palvelin mihin luotat &mdash; minkä tahansa valitset, voit vuorovaikuttaa muiden kanssa. Kuka tahansa voi luoda EtherHive palvelimen ja ottaa osaa <em>sosiaaliseen verkkoon</em> saumattomasti.
+    about_etherhive_html: Hiveway on <em>vapaa, avoimeen lähdekoodiin perustuva</em> sosiaalinen verkosto. <em>Hajautettu</em> vaihtoehto kaupallisille alustoille, se välttää eiskit yhden yrityksen monopolisoinnin sinun viestinnässäsi. Valitse palvelin mihin luotat &mdash; minkä tahansa valitset, voit vuorovaikuttaa muiden kanssa. Kuka tahansa voi luoda Hiveway palvelimen ja ottaa osaa <em>sosiaaliseen verkkoon</em> saumattomasti.
     about_this: Tietoja tästä palvelimesta
     closed_registrations: Rekisteröityminen tässä instanssissa on juuri nyt suljettu. Mutta! Voit yhdistää täysin samaan, yhteiseen verkostoon rekisteröitymällä jossain toisessa instanssissa.
     contact: Ota yhteyttä
@@ -14,9 +14,9 @@ fi:
       <h3>Hyvä paikka säännöille</h3>
       <p>Pidennettyä kuvausta ei ole vielä asetettu.</p>
     features:
-      humane_approach_body: Muiden verkostojen virheistä oppien, EtherHive pyrkii tekemään eettisiä valintoja suunnittelussa taistellakseen sosiaalisen median väärinkäyttöä vastaan.
+      humane_approach_body: Muiden verkostojen virheistä oppien, Hiveway pyrkii tekemään eettisiä valintoja suunnittelussa taistellakseen sosiaalisen median väärinkäyttöä vastaan.
       humane_approach_title: Humaanimpi lähestymistapa
-      not_a_product_body: EtherHive ei ole kaupallinen verkosto. Ei mainoksia, ei tiedonlouhintaa, ei suljettuja sisäpiirejä. EtherHiveissa ei ole keskitettyä auktoriteettiä.
+      not_a_product_body: Hiveway ei ole kaupallinen verkosto. Ei mainoksia, ei tiedonlouhintaa, ei suljettuja sisäpiirejä. Hivewayissa ei ole keskitettyä auktoriteettiä.
       not_a_product_title: Olet henkilö, et tuote
       real_conversation_title: Rakennettu oikealle keskustelulle
       within_reach_body: Kehittäjäystävällisen rajapintaekosysteemin ansiosta useita appeja Androidille, iOS:lle ja muille alustoille, jotka mahdollistavat yhteydenpidon ystäviesi kanssa missä vain.
@@ -29,7 +29,7 @@ fi:
     status_count_before: Ovat luoneet
     user_count_after: käyttäjälle
     user_count_before: Koti
-    what_is_etherhive: Mikä on EtherHive?
+    what_is_etherhive: Mikä on Hiveway?
   accounts:
     follow: Seuraa
     followers: Seuraajat
@@ -162,7 +162,7 @@ fi:
     prompt: 'Sinä aiot seurata:'
   settings:
     authorized_apps: Valtuutetut ohjelmat
-    back: Takaisin EtherHiveiin
+    back: Takaisin Hivewayiin
     edit_profile: Muokkaa profiilia
     export: Vie dataa
     import: Tuo dataa

@@ -14,9 +14,9 @@ en:
           one: <span class="note-counter">1</span> character left
           other: <span class="note-counter">%{count}</span> characters left
         setting_noindex: Affects your public profile and status pages
-        setting_theme: Affects how EtherHive looks when you're logged in from any device.
+        setting_theme: Affects how Hiveway looks when you're logged in from any device.
       imports:
-        data: CSV file exported from another EtherHive instance
+        data: CSV file exported from another Hiveway instance
       sessions:
         otp: Enter the Two-factor code from your phone or use one of your recovery codes.
       user:

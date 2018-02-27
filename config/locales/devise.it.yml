@@ -17,13 +17,13 @@ it:
       unconfirmed: Devi confermare il tuo indirizzo email per continuare.
     mailer:
       confirmation_instructions:
-        subject: 'EtherHive: Istruzioni di conferma per %{instance}'
+        subject: 'Hiveway: Istruzioni di conferma per %{instance}'
       password_change:
-        subject: 'EtherHive: Password modificata'
+        subject: 'Hiveway: Password modificata'
       reset_password_instructions:
-        subject: 'EtherHive: Istruzioni per il reset della password'
+        subject: 'Hiveway: Istruzioni per il reset della password'
       unlock_instructions:
-        subject: 'EtherHive: Istruzioni di sblocco'
+        subject: 'Hiveway: Istruzioni di sblocco'
     omniauth_callbacks:
       failure: Impossibile autenticarti da %{kind} perché "%{reason}".
       success: Autenticato con successo con account %{kind}.

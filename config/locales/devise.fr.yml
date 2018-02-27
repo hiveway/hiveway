@@ -25,7 +25,7 @@ fr:
       email_changed:
         explanation: 'L''adresse courriel de votre compte est en cours de modification pour devenir :'
         extra: Si vous n'avez pas changé votre adresse courriel, il est probable que quelqu'un ait eu accès à votre compte. Veuillez changer votre mot de passe immédiatement ou contacter l'administrateur de l'instance si vous êtes bloqué hors de votre compte.
-        subject: 'EtherHive : Courriel modifié'
+        subject: 'Hiveway : Courriel modifié'
         title: Nouvelle adresse courriel
       password_change:
         explanation: Le mot de passe de votre compte a été changé.
@@ -34,8 +34,8 @@ fr:
         title: Mot de passe modifié
       reconfirmation_instructions:
         explanation: Confirmez la nouvelle adresse pour changer votre courriel.
-        extra: Si ce changement n' a pas été initié par vous, veuillez ignorer ce courriel. L'adresse courriel du compte EtherHive ne changera pas tant que vous n'aurez pas cliqué sur le lien ci-dessus.
-        subject: 'EtherHive : Confirmez l''email pour %{instance}'
+        extra: Si ce changement n' a pas été initié par vous, veuillez ignorer ce courriel. L'adresse courriel du compte Hiveway ne changera pas tant que vous n'aurez pas cliqué sur le lien ci-dessus.
+        subject: 'Hiveway : Confirmez l''email pour %{instance}'
         title: Vérifier l'adresse courriel
       reset_password_instructions:
         action: Modifier le mot de passe

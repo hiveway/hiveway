@@ -14,9 +14,9 @@ sk:
           one: Ostáva vám <span class="note-counter">1</span> znak
           other: Ostáva vám <span class="note-counter">%{count}</span>znakov
         setting_noindex: Ovplyvňuje profil  a správy tak, že ich nebude možné nájsť vyhľadávaním
-        setting_theme: Ovplyvní ako bude EtherHive vyzerať pri prihlásení z hociktorého zariadenia.
+        setting_theme: Ovplyvní ako bude Hiveway vyzerať pri prihlásení z hociktorého zariadenia.
       imports:
-        data: CSV súbor vyexportovaný z inej EtherHive inštancie
+        data: CSV súbor vyexportovaný z inej Hiveway inštancie
       sessions:
         otp: Vložte 2FA kód z telefónu alebo použite jeden z vašich obnovovacích kódov.
       user:

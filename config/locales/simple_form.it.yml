@@ -9,7 +9,7 @@ it:
         locked: Richiede la tua approvazione per i nuovi seguaci e rende i nuovi post automaticamente visibili solo ai seguaci
         note: Al massimo 160 caratteri
       imports:
-        data: CSV esportato da un altro server EtherHive
+        data: CSV esportato da un altro server Hiveway
     labels:
       defaults:
         avatar: Avatar

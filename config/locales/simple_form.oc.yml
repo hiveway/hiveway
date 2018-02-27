@@ -14,9 +14,9 @@ oc:
           one: Demòra encara <span class="name-counter">1</span> caractèr
           other: Demòran encara <span class="name-counter">%{count}</span> caractèrs
         setting_noindex: Aquò es destinat a vòstre perfil public e vòstra pagina d’estatuts
-        setting_theme: Aquò càmbia lo tèma grafic de EtherHive quand sètz connectat qual que siasque lo periferic.
+        setting_theme: Aquò càmbia lo tèma grafic de Hiveway quand sètz connectat qual que siasque lo periferic.
       imports:
-        data: Fichièr CSV exportat d’una autra instància EtherHive
+        data: Fichièr CSV exportat d’una autra instància Hiveway
       sessions:
         otp: Picatz lo còdi d’autentificacion en dos temps (Two factor code) de vòstre mobil o utilizatz un de vòstres còdis de recuperacion.
       user:

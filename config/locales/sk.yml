@@ -2,9 +2,9 @@
 sk:
   about:
     about_hashtag_html: Toto sú verejné posty otagované <strong>#%{tagom}</strong>. Ak máš účet niekde vo fediverse, môžeš ich používať.
-    about_etherhive_html: EtherHive je sociálna sieť založená na otvorených webových protokoloch. Jej zrojový kód je otvorený a je decentralizovaná podobne ako email.
+    about_etherhive_html: Hiveway je sociálna sieť založená na otvorených webových protokoloch. Jej zrojový kód je otvorený a je decentralizovaná podobne ako email.
     about_this: O instancii
-    closed_registrations: Registrácie sú momentálne uzatvorené. Avšak, existujú ďalšie EtherHive inštancie kde si môžete založiť účet a získať prístup do tej istej siete z tamaď.
+    closed_registrations: Registrácie sú momentálne uzatvorené. Avšak, existujú ďalšie Hiveway inštancie kde si môžete založiť účet a získať prístup do tej istej siete z tamaď.
     contact: Kontakt
     contact_missing: Nezadané
     contact_unavailable: Neuvedené
@@ -15,9 +15,9 @@ sk:
       <h3>Pravidlá</h3>
       <p>Žiadne zatiaľ nie sú</p>
     features:
-      humane_approach_body: Poučený z chýb iných sociálnych sietí, EtherHive sa snaží bojovať s nekalým používaním siete vytváraním etických možností.
+      humane_approach_body: Poučený z chýb iných sociálnych sietí, Hiveway sa snaží bojovať s nekalým používaním siete vytváraním etických možností.
       humane_approach_title: Ľudskejší prístup
-      not_a_product_body: EtherHive nie je komerčná sieť. Žiadne reklamy, žiadne dolovanie dát, žiadne múry. Žiadna centrálna autorita.
+      not_a_product_body: Hiveway nie je komerčná sieť. Žiadne reklamy, žiadne dolovanie dát, žiadne múry. Žiadna centrálna autorita.
       not_a_product_title: Si človek, nie produkt
       real_conversation_body: S 500 znakmi a podporou pre varovania pri obrázkoch a videách sa môžeš vyjadriť tak ako budeš chcieť.
       real_conversation_title: Vytvorený pre reálnu konverzáciu
@@ -25,7 +25,7 @@ sk:
       within_reach_title: Stále v dosahu
     find_another_instance: Nájdi inú inštanciu
     generic_description: "%{domain} je jeden server v sieti"
-    hosted_on: EtherHive hostovaný na %{domain}
+    hosted_on: Hiveway hostovaný na %{domain}
     learn_more: Dozvedieť sa viac
     other_instances: Zoznam ďalších inštancií
     source_code: Zdrojový kód
@@ -33,7 +33,7 @@ sk:
     status_count_before: Ktorí napísali
     user_count_after: používateľov
     user_count_before: Domov pre
-    what_is_etherhive: Čo je EtherHive?
+    what_is_etherhive: Čo je Hiveway?
   accounts:
     follow: Sledovať
     followers: Sledujúci

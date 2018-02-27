@@ -14,9 +14,9 @@ es:
           one: <span class="name-counter">1</span> caracter restante
           other: <span class="name-counter">%{count}</span> caracteres restantes
         setting_noindex: Afecta a tu perfil público y páginas de estado
-        setting_theme: Afecta al aspecto de EtherHive cuando te identificas desde cualquier dispositivo.
+        setting_theme: Afecta al aspecto de Hiveway cuando te identificas desde cualquier dispositivo.
       imports:
-        data: Archivo CSV exportado desde otra instancia de EtherHive
+        data: Archivo CSV exportado desde otra instancia de Hiveway
       sessions:
         otp: Ingresa el código de autenticación de dos factores de tu teléfono o usa uno de tus códigos de recuperación.
       user:

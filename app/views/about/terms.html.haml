@@ -7,7 +7,7 @@
       .container.links
         .brand
           = link_to root_url do
-            = image_tag asset_pack_path('logo_full.svg'), alt: 'EtherHive'
+            = image_tag asset_pack_path('logo_full.svg'), alt: 'Hiveway'
 
         %ul.nav
           %li
@@ -16,7 +16,7 @@
             - else
               = link_to t('auth.login'), new_user_session_path, class: 'webapp-btn'
           %li= link_to t('about.about_this'), about_more_path
-          %li= link_to t('about.other_instances'), 'https://etherhive.io/'
+          %li= link_to t('about.other_instances'), 'https://hiveway.net/'
 
   .extended-description
     .container

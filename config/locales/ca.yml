@@ -2,7 +2,7 @@
 ca:
   about:
     about_hashtag_html: Aquests són posts públics etiquetats amb <strong>#%{hashtag}</strong>. Pots interactuar amb ells si tens un compte a qualsevol lloc del fediverse.
-    about_etherhive_html: EtherHive és una xarxa social basada en protocols web oberts i en programari lliure i de codi obert. Està descentralitzat com el correu electrònic.
+    about_etherhive_html: Hiveway és una xarxa social basada en protocols web oberts i en programari lliure i de codi obert. Està descentralitzat com el correu electrònic.
     about_this: Quant a
     closed_registrations: Actualment, el registre està tancat en aquesta instància. Malgrat això! Pots trobar una altra instància per fer-te un compte i obtenir accés a la mateixa xarxa des d'allà.
     contact: Contacte
@@ -15,9 +15,9 @@ ca:
       <h3>Un bon lloc per les regles</h3>
       <p>Encara no s'ha configurat la descripció ampliada.</p>
     features:
-      humane_approach_body: Aprenent dels errors d'altres xarxes, EtherHive té com a objectiu fer eleccions ètiques de disseny per a combatre el mal ús de les xarxes socials.
+      humane_approach_body: Aprenent dels errors d'altres xarxes, Hiveway té com a objectiu fer eleccions ètiques de disseny per a combatre el mal ús de les xarxes socials.
       humane_approach_title: Un enfocament més humà
-      not_a_product_body: EtherHive no és una xarxa comercial. Sense publicitat, sense mineria de dades, sense jardins emmurallats. No hi ha cap autoritat central.
+      not_a_product_body: Hiveway no és una xarxa comercial. Sense publicitat, sense mineria de dades, sense jardins emmurallats. No hi ha cap autoritat central.
       not_a_product_title: Ets una persona, no un producte
       real_conversation_body: Amb 500 caràcters a la teva disposició i suport per a continguts granulars i avisos multimèdia, pots expressar-te de la manera que vulguis.
       real_conversation_title: Construït per a converses reals
@@ -25,7 +25,7 @@ ca:
       within_reach_title: Sempre a l'abast
     find_another_instance: Troba altres instàncies
     generic_description: "%{domain} és un servidor a la xarxa"
-    hosted_on: EtherHive allotjat a %{domain}
+    hosted_on: Hiveway allotjat a %{domain}
     learn_more: Més informació
     other_instances: Altres instàncies
     source_code: Codi font
@@ -33,7 +33,7 @@ ca:
     status_count_before: que han escrit
     user_count_after: usuaris registrats
     user_count_before: Tenim
-    what_is_etherhive: Què és EtherHive?
+    what_is_etherhive: Què és Hiveway?
   accounts:
     follow: Segueix
     followers: Seguidors
@@ -411,7 +411,7 @@ ca:
     '500':
       content: Ho sentim, però alguna cosa ha fallat a la nostra banda.
       title: Aquesta pàgina no es correcte
-    noscript_html: Per utilitzar EtherHive si us plau activa JavaScript.
+    noscript_html: Per utilitzar Hiveway si us plau activa JavaScript.
   exports:
     blocks: Persones que has bloquejat
     csv: CSV
@@ -578,7 +578,7 @@ ca:
       weibo: Weibo
     current_session: Sessió actual
     description: "%{browser} de %{platform}"
-    explanation: Aquests són els navegadors web que actualment han iniciat la sessió amb el teu compte de EtherHive.
+    explanation: Aquests són els navegadors web que actualment han iniciat la sessió amb el teu compte de Hiveway.
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -704,7 +704,7 @@ ca:
       <p>Originalment adaptat a la <a href="https://github.com/discourse/discourse">política de privadesa del Discurs</a>.</p>
     title: "%{instance} Condicions del servei i política de privadesa"
   themes:
-    default: EtherHive
+    default: Hiveway
   time:
     formats:
       default: "%b %d, %Y, %H:%M"
@@ -735,12 +735,12 @@ ca:
       full_handle_hint: Això és el que has de dir als teus amics perquè puguin enviar-te missatges o seguir-te des d'una altra instància.
       review_preferences_action: Canviar preferències
       review_preferences_step: Assegura't d'establir les teves preferències, com ara els correus electrònics que vols rebre o el nivell de privadesa per defecte que t'agradaria que tinguin les teves entrades. Si no tens malaltia de moviment, pots optar per habilitar la reproducció automàtica de GIF.
-      subject: Benvingut/da a EtherHive
-      tip_bridge_html: Si vens de Twitter, pots trobar els teus amics a EtherHive mitjançant l'aplicació <a href="%{bridge_url}"> bridge </a>. Només funciona si també ells usen aquesta aplicació pont!
-      tip_federated_timeline: La línia de temps federada és el cabal principal de la xarxa EtherHive. Però només inclou les persones a les quals els teus veïns estan subscrits, de manera que no està complet.
+      subject: Benvingut/da a Hiveway
+      tip_bridge_html: Si vens de Twitter, pots trobar els teus amics a Hiveway mitjançant l'aplicació <a href="%{bridge_url}"> bridge </a>. Només funciona si també ells usen aquesta aplicació pont!
+      tip_federated_timeline: La línia de temps federada és el cabal principal de la xarxa Hiveway. Però només inclou les persones a les quals els teus veïns estan subscrits, de manera que no està complet.
       tip_following: Per defecte segueixes als administradors del servidor. Per trobar més persones interessants, consulta les línies de temps local i federada.
       tip_local_timeline: La línia de temps local és la vista del flux de publicacions dels usuaris de %{instance}. Aquests usuaris són els teus veïns més propers!
-      tip_mobile_webapp: Si el teu navegador del mòbil t'ofereix afegir EtherHive a la teva pantalla d'inici, podràs rebre notificacions "push". Es comporta com una aplicació nativa en molts aspectes!
+      tip_mobile_webapp: Si el teu navegador del mòbil t'ofereix afegir Hiveway a la teva pantalla d'inici, podràs rebre notificacions "push". Es comporta com una aplicació nativa en molts aspectes!
       tips: Consells
       title: Benvingut a bord, %{name}!
   users:

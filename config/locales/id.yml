@@ -1,7 +1,7 @@
 ---
 id:
   about:
-    about_etherhive_html: EtherHive adalah sebuah jejaring sosial <em>terbuka, open-source</em. Sebuah alternatif <em>desentralisasi</em> dari platform komersial, menjauhkan anda resiko dari sebuah perusahaan yang memonopoli komunikasi anda. Pilih server yang anda percayai &mdash; apapun yang anda pilih, anda tetap dapat berinteraksi dengan semua orang. Semua orang dapat menjalankan server EtherHive sendiri dan berpartisipasi dalam <em>jejaring sosial</em> dengan mudah.
+    about_etherhive_html: Hiveway adalah sebuah jejaring sosial <em>terbuka, open-source</em. Sebuah alternatif <em>desentralisasi</em> dari platform komersial, menjauhkan anda resiko dari sebuah perusahaan yang memonopoli komunikasi anda. Pilih server yang anda percayai &mdash; apapun yang anda pilih, anda tetap dapat berinteraksi dengan semua orang. Semua orang dapat menjalankan server Hiveway sendiri dan berpartisipasi dalam <em>jejaring sosial</em> dengan mudah.
     about_this: Tentang server ini
     closed_registrations: Pendaftaran untuk server ini sedang ditutup.
     contact: Kontak
@@ -275,7 +275,7 @@ id:
     prompt: 'Anda akan mengikuti:'
   settings:
     authorized_apps: Apl yang diizinkan
-    back: Kembali ke EtherHive
+    back: Kembali ke Hiveway
     edit_profile: Ubah profil
     export: Expor data
     followers: Pengikut yang diizinkan

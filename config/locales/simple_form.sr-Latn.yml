@@ -18,9 +18,9 @@ sr-Latn:
           one: <span class="note-counter">1</span> karakter preostao
           other: <span class="note-counter">%{count}</span> karaktera preostalo
         setting_noindex: Utiče na Vaš javni profil i statusne strane
-        setting_theme: Utiče kako će EtherHive izgledati kada ste prijavljeni sa bilo kog uređaja.
+        setting_theme: Utiče kako će Hiveway izgledati kada ste prijavljeni sa bilo kog uređaja.
       imports:
-        data: CSV fajl izvezen sa druge EtherHivet instance
+        data: CSV fajl izvezen sa druge Hivewayt instance
       sessions:
         otp: Unesite dvofaktorski kod sa Vašeg telefona ili koristite jedan od kodova za oporavak.
       user:

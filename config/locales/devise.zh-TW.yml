@@ -17,13 +17,13 @@ zh-TW:
       unconfirmed: 您必須先完成信箱驗證，以繼續使用。
     mailer:
       confirmation_instructions:
-        subject: 'EtherHive: 信箱驗證'
+        subject: 'Hiveway: 信箱驗證'
       password_change:
-        subject: 'EtherHive: 更改密碼'
+        subject: 'Hiveway: 更改密碼'
       reset_password_instructions:
-        subject: 'EtherHive: 重設密碼'
+        subject: 'Hiveway: 重設密碼'
       unlock_instructions:
-        subject: 'EtherHive: 帳號解鎖'
+        subject: 'Hiveway: 帳號解鎖'
     omniauth_callbacks:
       failure: 無法以 %{kind} 登入您的帳號，原因是︰「%{reason}」。
       success: 成功以 %{kind} 登入您的帳號。

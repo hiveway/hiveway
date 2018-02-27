@@ -17,13 +17,13 @@ zh-HK:
       unconfirmed: 你必須先確認電郵地址，繼續使用。
     mailer:
       confirmation_instructions:
-        subject: 'EtherHive: 確認電郵地址'
+        subject: 'Hiveway: 確認電郵地址'
       password_change:
-        subject: 'EtherHive: 更改密碼'
+        subject: 'Hiveway: 更改密碼'
       reset_password_instructions:
-        subject: 'EtherHive: 重設密碼'
+        subject: 'Hiveway: 重設密碼'
       unlock_instructions:
-        subject: 'EtherHive: 解除用戶鎖定'
+        subject: 'Hiveway: 解除用戶鎖定'
     omniauth_callbacks:
       failure: 無法以 %{kind} 登入你的用戶，原因是︰「%{reason}」。
       success: 成功以 %{kind} 登入你的用戶。

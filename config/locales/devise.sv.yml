@@ -17,13 +17,13 @@ sv:
       unconfirmed: Du måste bekräfta din e-postadress innan du fortsätter.
     mailer:
       confirmation_instructions:
-        subject: 'EtherHive: Bekräftelsesinstruktioner för %{instance}'
+        subject: 'Hiveway: Bekräftelsesinstruktioner för %{instance}'
       password_change:
-        subject: 'EtherHive: Lösenord ändrat'
+        subject: 'Hiveway: Lösenord ändrat'
       reset_password_instructions:
-        subject: 'EtherHive: Instruktioner för återställning av lösenord'
+        subject: 'Hiveway: Instruktioner för återställning av lösenord'
       unlock_instructions:
-        subject: 'EtherHive: Lås upp instruktioner'
+        subject: 'Hiveway: Lås upp instruktioner'
     omniauth_callbacks:
       failure: Det gick inte att autentisera dig från %{kind} för "%{reason}".
       success: Autentiserad från %{kind} konto.

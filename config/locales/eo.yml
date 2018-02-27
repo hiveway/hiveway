@@ -1,13 +1,13 @@
 ---
 eo:
   about:
-    about_etherhive_html: EtherHive estas <em>senpaga, malfermitkoda</em> socia reto. Ĝi estas <em>sencentra</em> alia eblo al komercaj servoj. Ĝi evitigas, ke unusola firmao regu vian tutan komunikadon. Elektu servilon, kiun vi fidas. Kiu ajn estas via elekto, vi povas interagi kun ĉiuj aliaj uzantoj. Iu ajn povas krei sian propran aperaĵon de EtherHive en sia servilo, kaj partopreni en la <em>socia reto</em> tute glate.
+    about_etherhive_html: Hiveway estas <em>senpaga, malfermitkoda</em> socia reto. Ĝi estas <em>sencentra</em> alia eblo al komercaj servoj. Ĝi evitigas, ke unusola firmao regu vian tutan komunikadon. Elektu servilon, kiun vi fidas. Kiu ajn estas via elekto, vi povas interagi kun ĉiuj aliaj uzantoj. Iu ajn povas krei sian propran aperaĵon de Hiveway en sia servilo, kaj partopreni en la <em>socia reto</em> tute glate.
     about_this: Pri tiu aperaĵo
     contact: Kontakti
     description_headline: Kio estas %{domain}?
     domain_count_after: aliaj aperaĵoj
     domain_count_before: Konektita al
-    hosted_on: EtherHive gastigita sur %{domain}
+    hosted_on: Hiveway gastigita sur %{domain}
     learn_more: Lernu pli
     other_instances: Aliaj aperaĵoj
     source_code: Fontkodo
@@ -15,7 +15,7 @@ eo:
     status_count_before: Kiu publikigis
     user_count_after: uzantoj
     user_count_before: Hejmo de
-    what_is_etherhive: Kio estas EtherHive?
+    what_is_etherhive: Kio estas Hiveway?
   accounts:
     follow: Sekvi
     followers: Sekvantoj
@@ -380,14 +380,14 @@ eo:
     browser: Retumilo
     current_session: Aktuala sesio
     description: "%{browser} sur %{platform}"
-    explanation: Ĉi tiuj estas la retumiloj nun ensalutinda en via EtherHive konton.
+    explanation: Ĉi tiuj estas la retumiloj nun ensalutinda en via Hiveway konton.
     ip: IP
     revoke: Revoki
     revoke_success: La sesio estas revokis
     title: Sesioj
   settings:
     authorized_apps: Rajtigitaj aplikaĵoj
-    back: Reveni al EtherHive
+    back: Reveni al Hiveway
     delete: Konto forigo
     development: Evoluno
     edit_profile: Redakti la profilon

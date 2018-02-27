@@ -1,8 +1,8 @@
 ---
 ru:
   about:
-    about_hashtag_html: Это публичные статусы, отмеченные хэштегом <strong>#%{hashtag}</strong>. Вы можете взаимодействовать с ними при наличии у Вас аккаунта в глобальной сети EtherHive.
-    about_etherhive_html: EtherHive - это <em>свободная</em> социальная сеть с <em>открытым исходным кодом</em>. Как <em>децентрализованная</em> альтернатива коммерческим платформам, EtherHive предотвращает риск монополизации Вашего общения одной компанией. Выберите сервер, которому Вы доверяете &mdash; что бы Вы ни выбрали, Вы сможете общаться со всеми остальными. Любой может запустить свой собственный узел EtherHive и участвовать в <em>социальной сети</em> совершенно бесшовно.
+    about_hashtag_html: Это публичные статусы, отмеченные хэштегом <strong>#%{hashtag}</strong>. Вы можете взаимодействовать с ними при наличии у Вас аккаунта в глобальной сети Hiveway.
+    about_etherhive_html: Hiveway - это <em>свободная</em> социальная сеть с <em>открытым исходным кодом</em>. Как <em>децентрализованная</em> альтернатива коммерческим платформам, Hiveway предотвращает риск монополизации Вашего общения одной компанией. Выберите сервер, которому Вы доверяете &mdash; что бы Вы ни выбрали, Вы сможете общаться со всеми остальными. Любой может запустить свой собственный узел Hiveway и участвовать в <em>социальной сети</em> совершенно бесшовно.
     about_this: Об этом узле
     closed_registrations: В данный момент регистрация на этом узле закрыта.
     contact: Связаться
@@ -15,9 +15,9 @@ ru:
       <h3>Хорошее место для правил</h3>
       <p>Расширенное описание еще не настроено.</p>
     features:
-      humane_approach_body: Наученный ошибками других проектов, EtherHive направлен на выбор этичных решений в борьбе со злоупотреблениями возможностями социальных сетей.
+      humane_approach_body: Наученный ошибками других проектов, Hiveway направлен на выбор этичных решений в борьбе со злоупотреблениями возможностями социальных сетей.
       humane_approach_title: Человечный подход
-      not_a_product_body: EtherHive -  не коммерческая сеть. Здесь нет рекламы, сбора данных, отгороженных мест. Здесь нет централизованного управления.
+      not_a_product_body: Hiveway -  не коммерческая сеть. Здесь нет рекламы, сбора данных, отгороженных мест. Здесь нет централизованного управления.
       not_a_product_title: Вы - человек, а не продукт
       real_conversation_body: С 500 символами в Вашем распоряжении и поддержкой предупреждений о содержании статусов Вы сможете выражать свои мысли так, как Вы этого хотите.
       real_conversation_title: Создан для настоящего общения
@@ -25,7 +25,7 @@ ru:
       within_reach_title: Всегда под рукой
     find_another_instance: Найти другой узел
     generic_description: "%{domain} - один из серверов сети"
-    hosted_on: EtherHive размещен на %{domain}
+    hosted_on: Hiveway размещен на %{domain}
     learn_more: Узнать больше
     other_instances: Другие узлы
     source_code: Исходный код
@@ -33,7 +33,7 @@ ru:
     status_count_before: Опубликовано
     user_count_after: пользователей
     user_count_before: Здесь живет
-    what_is_etherhive: Что такое EtherHive?
+    what_is_etherhive: Что такое Hiveway?
   accounts:
     follow: Подписаться
     followers: Подписчики
@@ -411,7 +411,7 @@ ru:
     '500':
       content: Приносим извинения, но на нашей стороне что-то пошло не так.
       title: Страница неверна
-    noscript_html: Для работы с EtherHive, пожалуйста, включите JavaScript.
+    noscript_html: Для работы с Hiveway, пожалуйста, включите JavaScript.
   exports:
     blocks: Список блокировки
     csv: CSV
@@ -572,7 +572,7 @@ ru:
       weibo: Weibo
     current_session: Текущая сессия
     description: "%{browser} на %{platform}"
-    explanation: Это веб-браузеры, в которых на данный момент выполнен вход в Ваш аккаунт EtherHive.
+    explanation: Это веб-браузеры, в которых на данный момент выполнен вход в Ваш аккаунт Hiveway.
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -592,7 +592,7 @@ ru:
     title: Сессии
   settings:
     authorized_apps: Авторизованные приложения
-    back: Назад в EtherHive
+    back: Назад в Hiveway
     delete: Удаление аккаунта
     development: Разработка
     edit_profile: Изменить профиль
@@ -668,7 +668,7 @@ ru:
       <p>Originally adapted from the <a href="https://github.com/discourse/discourse">Discourse privacy policy</a>.</p>
     title: Условия обслуживания и политика конфиденциальности %{instance}
   themes:
-    default: EtherHive
+    default: Hiveway
   time:
     formats:
       default: "%b %d, %Y, %H:%M"

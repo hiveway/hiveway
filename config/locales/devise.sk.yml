@@ -18,13 +18,13 @@ sk:
     mailer:
       confirmation_instructions:
         action: Potvrite emailovú adresu
-        subject: 'EtherHive: Potvrdzovacie inštrukcie pre %{instance}'
+        subject: 'Hiveway: Potvrdzovacie inštrukcie pre %{instance}'
       password_change:
-        subject: 'EtherHive: Heslo bolo zmenené'
+        subject: 'Hiveway: Heslo bolo zmenené'
       reset_password_instructions:
-        subject: 'EtherHive: Inštrukcie pre obnovu hesla'
+        subject: 'Hiveway: Inštrukcie pre obnovu hesla'
       unlock_instructions:
-        subject: 'EtherHive: Inštrukcie pre odomknutie účtu'
+        subject: 'Hiveway: Inštrukcie pre odomknutie účtu'
     omniauth_callbacks:
       failure: Nebolo možné vás autentifikovať z %{kind} z dôvodu "%{reason}".
       success: Úspešne autentifikovaný z účtu %{kind}.

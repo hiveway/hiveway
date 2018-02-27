@@ -9,7 +9,7 @@ eo:
         locked: Vi devos aprobi ĉiun peton de sekvado, kaj viaj mesaĝoj estos senŝanĝe nur por viaj sekvantoj.
         note: 160 signoj pleje
       imports:
-        data: Dosiero CSV el alia aperaĵo de EtherHive
+        data: Dosiero CSV el alia aperaĵo de Hiveway
     labels:
       defaults:
         avatar: Profilbildo

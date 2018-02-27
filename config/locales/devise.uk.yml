@@ -17,13 +17,13 @@ uk:
       unconfirmed: Для продовження Вам потрібно підтвердити Вашу поштову скриньку.
     mailer:
       confirmation_instructions:
-        subject: 'EtherHive: Інструкції для підтвердження'
+        subject: 'Hiveway: Інструкції для підтвердження'
       password_change:
-        subject: 'EtherHive: Ваш пароль змінений'
+        subject: 'Hiveway: Ваш пароль змінений'
       reset_password_instructions:
-        subject: 'EtherHive: Інструкції для скидання паролю'
+        subject: 'Hiveway: Інструкції для скидання паролю'
       unlock_instructions:
-        subject: 'EtherHive: Інструкції для розблокування'
+        subject: 'Hiveway: Інструкції для розблокування'
     omniauth_callbacks:
       failure: Нам не вдалося аутентифікувати Вас з %{kind} через те, що "%{reason}".
       success: Успішно аутентифіковано з акаунту %{kind}.

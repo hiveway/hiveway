@@ -9,7 +9,7 @@ fi:
         locked: Vaatii sinun manuaalisesti hyväksymään seuraajat ja asettaa julkaisujen yksityisyyden vain seuraajille
         note: Korkeintaan 160 merkkiä
       imports:
-        data: CSV tiedosto tuotu toiselta EtherHive palvelimelta
+        data: CSV tiedosto tuotu toiselta Hiveway palvelimelta
     labels:
       defaults:
         avatar: Avatar

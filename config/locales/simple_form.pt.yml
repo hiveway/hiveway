@@ -9,7 +9,7 @@ pt:
         locked: Requer que manualmente aproves seguidores e torna o default dos teus posts para privados (apenas seguidores)
         note: No máximo 160 caracteres
       imports:
-        data: Ficheiro CSV exportado de outra instância do EtherHive
+        data: Ficheiro CSV exportado de outra instância do Hiveway
       sessions:
         otp: Insere o código de autenticação em dois passos do teu telefone ou utiliza um código de recuperação de acesso.
     labels:

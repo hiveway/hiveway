@@ -51,7 +51,7 @@ Use yarn "manage:translations -- --help" for usage information
 const { argv } = require('yargs')
   .usage(`Usage: yarn manage:translations -- [OPTIONS] [LANGUAGES]
 
-Manage JavaScript translation files in EtherHive. Generates and update translations in translationsDirectory: ${translationsDirectory}
+Manage JavaScript translation files in Hiveway. Generates and update translations in translationsDirectory: ${translationsDirectory}
 
 LANGUAGES
 The RFC5646 language tag for the language you want to test or fix. If you want to input multiple languages, separate them with space.

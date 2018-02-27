@@ -1,7 +1,7 @@
 ---
 it:
   about:
-    about_etherhive_html: EtherHive è un social network <em>gratuito e open-source</em>. Un'alternativa <em>decentralizzata</em> alle piattaforme commerciali che evita che una singola compagnia monopolizzi il tuo modo di comunicare. Scegli un server di cui ti fidi &mdash; qualunque sia la tua scelta, potrai interagire con chiunque altro. Chiunque può sviluppare un suo server EtherHive e partecipare alla vita del <em>social network</em>.
+    about_etherhive_html: Hiveway è un social network <em>gratuito e open-source</em>. Un'alternativa <em>decentralizzata</em> alle piattaforme commerciali che evita che una singola compagnia monopolizzi il tuo modo di comunicare. Scegli un server di cui ti fidi &mdash; qualunque sia la tua scelta, potrai interagire con chiunque altro. Chiunque può sviluppare un suo server Hiveway e partecipare alla vita del <em>social network</em>.
     about_this: A proposito di questo server
     closed_registrations: Al momento le iscrizioni a questo server sono chiuse.
     contact: Contatti
@@ -129,7 +129,7 @@ it:
     prompt: 'Stai per seguire:'
   settings:
     authorized_apps: Applicazioni autorizzate
-    back: Torna a EtherHive
+    back: Torna a Hiveway
     edit_profile: Modifica profilo
     export: Esporta impostazioni
     import: Importa

@@ -14,9 +14,9 @@
           one: <span class="note-counter">1</span> tegn igjen
           other: <span class="note-counter">%{count}</span> tegn igjen
         setting_noindex: Påvirker din offentlige profil og statussider
-        setting_theme: Påvirker hvordan EtherHive ser ut når du er logget inn fra uansett enhet.
+        setting_theme: Påvirker hvordan Hiveway ser ut når du er logget inn fra uansett enhet.
       imports:
-        data: CSV-fil eksportert fra en annen EtherHive-instans
+        data: CSV-fil eksportert fra en annen Hiveway-instans
       sessions:
         otp: Angi tofaktorkoden fra din telefon eller bruk en av dine gjenopprettingskoder.
       user:

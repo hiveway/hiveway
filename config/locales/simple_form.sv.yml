@@ -14,9 +14,9 @@ sv:
           one: <span class="note-counter">1</span> tecken kvar
           other: <span class="note-counter">%{count}</span> tecken kvar
         setting_noindex: Påverkar din offentliga profil och status sidor
-        setting_theme: Påverkar hur EtherHive ser ut när du är inloggad från vilken enhet som helst.
+        setting_theme: Påverkar hur Hiveway ser ut när du är inloggad från vilken enhet som helst.
       imports:
-        data: CSV-fil som exporteras från en annan EtherHive-instans
+        data: CSV-fil som exporteras från en annan Hiveway-instans
       sessions:
         otp: Ange tvåfaktorkoden från din telefon eller använd någon av dina återställningskoder.
       user:
