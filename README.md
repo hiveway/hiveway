@@ -1,25 +1,25 @@
-![EtherHive](https://i.imgur.com/1YxwFyU.png)
+![Hiveway](https://i.imgur.com/SP8GYZW.png)
 ========
 
-EtherHive is to become a direct democratic social network, running fully autonomously. Its users will be able to post and interact with messages, photos and videos. The social platform will be ruled by its users, through an electoral system, with technocratic values.  The users will receive the right to vote on the development of the platform, to run for a position in managing it, and to vote the candidates they believe more competent for each position.
+Hiveway is to become a direct democratic social network, running fully autonomously. Its users will be able to post and interact with messages, photos and videos. The social platform will be ruled by its users, through an electoral system, with technocratic values.  The users will receive the right to vote on the development of the platform, to run for a position in managing it, and to vote the candidates they believe more competent for each position.
 
 **Ruby on Rails** is used for the back-end, while **React.js** and Redux are used for the dynamic front-end. A static front-end for public resources (profiles and statuses) is also provided.
 
-If you would like, you can be a part of this project on [https://etherhive.io](https://etherhive.io)
+If you would like, you can be a part of this project on [https://hiveway.io](https://hiveway.io)
 
 
 ---
 
 ## Resources
-- [Documentation](https://github.com/etherhive/docs/blob/master/README.md)
-- [API overview](https://github.com/etherhive/docs/blob/master/API/API.md)
-- [Running EtherHive](https://github.com/etherhive/docs/blob/master/Running/ProductionGuide.md)
+- [Documentation](https://github.com/hiveway/docs/blob/master/README.md)
+- [API overview](https://github.com/hiveway/docs/blob/master/API/API.md)
+- [Running Hiveway](https://github.com/hiveway/docs/blob/master/Running/ProductionGuide.md)
 
 ## Features
 
 **No vendor lock-in: Fully interoperable with any conforming platform**
 
-It doesn't have to be EtherHive, whatever implements ActivityPub or OStatus is part of the social network!
+It doesn't have to be Hiveway, whatever implements ActivityPub or OStatus is part of the social network!
 
 **Real-time timeline updates**
 
@@ -35,25 +35,25 @@ Upload and view images and WebM/MP4 videos attached to the updates. Videos with 
 
 **OAuth2 and a straightforward REST API**
 
-EtherHive acts as an OAuth2 provider so 3rd party apps can use the API
+Hiveway acts as an OAuth2 provider so 3rd party apps can use the API
 
 **Fast response times**
 
-EtherHive tries to be as fast and responsive as possible, so all long-running tasks are delegated to background processing
+Hiveway tries to be as fast and responsive as possible, so all long-running tasks are delegated to background processing
 
 **Deployable via Docker**
 
-You don't need to mess with dependencies and configuration if you want to try EtherHive, if you have Docker and Docker Compose the deployment is extremely easy
+You don't need to mess with dependencies and configuration if you want to try Hiveway, if you have Docker and Docker Compose the deployment is extremely easy
 
 ---
 
 ## Development
 
-Please follow the [development guide](https://github.com/etherhive/docs/blob/master/Running/DevelopmentGuide.md) from the documentation repository.
+Please follow the [development guide](https://github.com/hiveway/docs/blob/master/Running/DevelopmentGuide.md) from the documentation repository.
 
 ## Deployment
 
-Please follow the [production deployment guide](https://github.com/etherhive/docs/blob/master/Running/ProductionGuide.md) from the documentation repository.
+Please follow the [production deployment guide](https://github.com/hiveway/docs/blob/master/Running/ProductionGuide.md) from the documentation repository.
 
 ## Contributing
 
