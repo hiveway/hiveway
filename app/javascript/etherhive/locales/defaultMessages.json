@@ -887,7 +887,7 @@
         "id": "navigation_bar.keyboard_shortcuts"
       },
       {
-        "defaultMessage": "Etherhive is open source software. You can contribute or report issues on GitHub at {github}.",
+        "defaultMessage": "Hiveway is open source software. You can contribute or report issues on GitHub at {github}.",
         "id": "getting_started.open_source_notice"
       }
     ],
@@ -1443,11 +1443,11 @@
         "id": "column.public"
       },
       {
-        "defaultMessage": "Welcome to EtherHive!",
+        "defaultMessage": "Welcome to Hiveway!",
         "id": "onboarding.page_one.welcome"
       },
       {
-        "defaultMessage": "EtherHive is a network of independent servers joining up to make one larger social network. We call these servers instances.",
+        "defaultMessage": "Hiveway is a network of independent servers joining up to make one larger social network. We call these servers instances.",
         "id": "onboarding.page_one.federation"
       },
       {
@@ -1499,7 +1499,7 @@
         "id": "onboarding.page_six.almost_done"
       },
       {
-        "defaultMessage": "EtherHive is free open-source software. You can report bugs, request features, or contribute to the code on {github}.",
+        "defaultMessage": "Hiveway is free open-source software. You can report bugs, request features, or contribute to the code on {github}.",
         "id": "onboarding.page_six.github"
       },
       {
@@ -1571,7 +1571,7 @@
   {
     "descriptors": [
       {
-        "defaultMessage": "Your draft will be lost if you leave EtherHive.",
+        "defaultMessage": "Your draft will be lost if you leave Hiveway.",
         "id": "ui.beforeunload"
       }
     ],
@@ -2514,7 +2514,7 @@
         "id": "navigation_bar.keyboard_shortcuts"
       },
       {
-        "defaultMessage": "Etherhive is open source software. You can contribute or report issues on GitHub at {github}.",
+        "defaultMessage": "Hiveway is open source software. You can contribute or report issues on GitHub at {github}.",
         "id": "getting_started.open_source_notice"
       }
     ],
@@ -3070,11 +3070,11 @@
         "id": "column.public"
       },
       {
-        "defaultMessage": "Welcome to EtherHive!",
+        "defaultMessage": "Welcome to Hiveway!",
         "id": "onboarding.page_one.welcome"
       },
       {
-        "defaultMessage": "EtherHive is a network of independent servers joining up to make one larger social network. We call these servers instances.",
+        "defaultMessage": "Hiveway is a network of independent servers joining up to make one larger social network. We call these servers instances.",
         "id": "onboarding.page_one.federation"
       },
       {
@@ -3126,7 +3126,7 @@
         "id": "onboarding.page_six.almost_done"
       },
       {
-        "defaultMessage": "EtherHive is free open-source software. You can report bugs, request features, or contribute to the code on {github}.",
+        "defaultMessage": "Hiveway is free open-source software. You can report bugs, request features, or contribute to the code on {github}.",
         "id": "onboarding.page_six.github"
       },
       {
@@ -3206,7 +3206,7 @@
   {
     "descriptors": [
       {
-        "defaultMessage": "Your draft will be lost if you leave EtherHive.",
+        "defaultMessage": "Your draft will be lost if you leave Hiveway.",
         "id": "ui.beforeunload"
       }
     ],

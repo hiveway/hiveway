@@ -128,8 +128,8 @@ export default class GettingStarted extends ImmutablePureComponent {
           <p>
             <FormattedMessage
               id='getting_started.open_source_notice'
-              defaultMessage='Etherhive is open source software. You can contribute or report issues on GitHub at {github}.'
-              values={{ github: <a href='https://github.com/etherhive' rel='noopener' target='_blank'>https://github.com/etherhive</a> }}
+              defaultMessage='Hiveway is open source software. You can contribute or report issues on GitHub at {github}.'
+              values={{ github: <a href='https://github.com/hiveway' rel='noopener' target='_blank'>https://github.com/hiveway</a> }}
             />
           </p>
         </div>
