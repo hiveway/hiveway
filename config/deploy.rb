@@ -2,10 +2,10 @@
 
 lock '3.10.0'
 
-set :repo_url, ENV.fetch('REPO', 'https://github.com/etherhive/etherhive.git')
+set :repo_url, ENV.fetch('REPO', 'https://github.com/hiveway/hiveway.git')
 set :branch, ENV.fetch('BRANCH', 'master')
 
-set :application, 'etherhive'
+set :application, 'hiveway'
 set :rbenv_type, :user
 set :rbenv_ruby, File.read('.ruby-version').strip
 set :migration_role, :app
