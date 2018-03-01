@@ -168,7 +168,7 @@
   "notifications.column_settings.sound": "효과음 재생",
   "onboarding.done": "완료",
   "onboarding.next": "다음",
-  "onboarding.page_five.public_timelines": "연합 타임라인에서는 {domain}의 사람들이 팔로우 중인 EtherHive 전체 인스턴스의 공개 포스트를 표시합니다. 로컬 타임라인에서는 {domain} 만의 공개 포스트를 표시합니다.",
+  "onboarding.page_five.public_timelines": "연합 타임라인에서는 {domain}의 사람들이 팔로우 중인 Hiveway 전체 인스턴스의 공개 포스트를 표시합니다. 로컬 타임라인에서는 {domain} 만의 공개 포스트를 표시합니다.",
   "onboarding.page_four.home": "홈 타임라인에서는 내가 팔로우 중인 사람들의 포스트를 표시합니다.",
   "onboarding.page_four.notifications": "알림에서는 다른 사람들과의 연결을 표시합니다.",
   "onboarding.page_one.federation": "EtherHive은 누구나 참가할 수 있는 SNS입니다.",
