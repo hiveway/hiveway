@@ -1,0 +1,8 @@
+The Hiveway source code is forked from Mastodon (https://github.com/tootsuite/mastodon)
+
+Hiveway currently has the following differences over Mastodon:
+
+- Ethereum Blockchain integration
+- UI was redesigned to be more friendly and with less items
+- There is no Federated Timeline
+- Mastodon branding replaced with Hiveway branding
