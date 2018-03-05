@@ -3,7 +3,7 @@
 
 Hiveway is to become a direct democratic social network, running fully autonomously. It is a fork of [Mastodon](https://github.com/tootsuite/mastodon). Its users will be able to post and interact with messages, photos and videos. The social platform will be ruled by its users, through an electoral system, with technocratic values.  The users will receive the right to vote on the development of the platform, to run for a position in managing it, and to vote the candidates they believe more competent for each position.
 
-Hiveway is a derived work from Mastodon (https://github.com/tootsuite/mastodon), therefore **Ruby on Rails** is used for the back-end, while **React.js** and Redux are used for the dynamic front-end. A static front-end for public resources (profiles and statuses) is also provided.
+Since the codebase is forked from Mastodon (https://github.com/tootsuite/mastodon), **Ruby on Rails** is used for the back-end, while **React.js** and Redux are used for the dynamic front-end. A static front-end for public resources (profiles and statuses) is also provided.
 
 If you would like, you can be a part of this project on [https://hiveway.io](https://hiveway.io)
 
